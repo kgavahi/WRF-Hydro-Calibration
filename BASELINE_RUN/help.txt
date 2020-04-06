@@ -1,0 +1,7 @@
+use pyngl
+use netcdf4.6.2GCC
+use ncl-ncar
+cd /mh1/kgavahi/WRF_Calibration/DDS/BASELINE_RUN
+chmod u+x wrf_hydro.exe
+
+srun -i none -u --mpi=pmi2 -n 1 -p main --qos main ./wrf_hydro.exe

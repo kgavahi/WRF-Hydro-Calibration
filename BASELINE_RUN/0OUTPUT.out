@@ -1,0 +1,803 @@
+wrfinput_flnm: './DOMAIN/wrfinput_d01.nc'
+wrfinput_flnm: './DOMAIN/wrfinput_d01.nc'
+wrfinput_flnm: './DOMAIN/wrfinput_d01.nc'
+wrfinput_flnm: './DOMAIN/wrfinput_d01.nc'
+wrfinput_flnm: './DOMAIN/wrfinput_d01.nc'
+wrfinput_flnm: './DOMAIN/wrfinput_d01.nc'
+wrfinput_flnm: './DOMAIN/wrfinput_d01.nc'
+wrfinput_flnm: './DOMAIN/wrfinput_d01.nc'
+ xstart,xend, ystart, yend           1          16           1          41
+ xstart,xend, ystart, yend          17          33           1          41
+ xstart,xend, ystart, yend          34          50           1          41
+ xstart,xend, ystart, yend          51          66           1          41
+ xstart,xend, ystart, yend           1          16          42          83
+ xstart,xend, ystart, yend          17          33          42          83
+ xstart,xend, ystart, yend          34          50          42          83
+ xstart,xend, ystart, yend          51          66          42          83
+ xstart,xend, ystart, yend           1          16           1          41
+ xstart,xend, ystart, yend          17          33           1          41
+ xstart,xend, ystart, yend          34          50           1          41
+ xstart,xend, ystart, yend          51          66           1          41
+ xstart,xend, ystart, yend           1          16          42          83
+ xstart,xend, ystart, yend          17          33          42          83
+ xstart,xend, ystart, yend          34          50          42          83
+ xstart,xend, ystart, yend          51          66          42          83
+wrfinput_flnm: './DOMAIN/wrfinput_d01.nc'
+wrfinput_flnm: './DOMAIN/wrfinput_d01.nc'
+wrfinput_flnm: './DOMAIN/wrfinput_d01.nc'
+wrfinput_flnm: './DOMAIN/wrfinput_d01.nc'
+wrfinput_flnm: './DOMAIN/wrfinput_d01.nc'
+wrfinput_flnm: './DOMAIN/wrfinput_d01.nc'
+wrfinput_flnm: './DOMAIN/wrfinput_d01.nc'
+wrfinput_flnm: './DOMAIN/wrfinput_d01.nc'
+ xstart,xend, ystart, yend           1          16           1          41
+ xstart,xend, ystart, yend          17          33           1          41
+ xstart,xend, ystart, yend          34          50           1          41
+ xstart,xend, ystart, yend          51          66           1          41
+ xstart,xend, ystart, yend           1          16          42          83
+ xstart,xend, ystart, yend          17          33          42          83
+ xstart,xend, ystart, yend          34          50          42          83
+ xstart,xend, ystart, yend          51          66          42          83
+ xstart,xend, ystart, yend          34          50          42          83
+ xstart,xend, ystart, yend          51          66          42          83
+ xstart,xend, ystart, yend           1          16           1          41
+ xstart,xend, ystart, yend          17          33           1          41
+ xstart,xend, ystart, yend          34          50           1          41
+ xstart,xend, ystart, yend          51          66           1          41
+ xstart,xend, ystart, yend           1          16          42          83
+ xstart,xend, ystart, yend          17          33          42          83
+ xstart,xend, ystart, yend          17          33           1          41
+ xstart,xend, ystart, yend          34          50           1          41
+ xstart,xend, ystart, yend          51          66           1          41
+ xstart,xend, ystart, yend           1          16          42          83
+ xstart,xend, ystart, yend          17          33          42          83
+ xstart,xend, ystart, yend          34          50          42          83
+ xstart,xend, ystart, yend          51          66          42          83
+ xstart,xend, ystart, yend           1          16           1          41
+ xstart,xend, ystart, yend          51          66           1          41
+ xstart,xend, ystart, yend           1          16          42          83
+ xstart,xend, ystart, yend          17          33          42          83
+ xstart,xend, ystart, yend          34          50          42          83
+ xstart,xend, ystart, yend          51          66          42          83
+ xstart,xend, ystart, yend           1          16           1          41
+ xstart,xend, ystart, yend          17          33           1          41
+ xstart,xend, ystart, yend          34          50           1          41
+ xstart,xend, ystart, yend           1          16           1          41
+ xstart,xend, ystart, yend          17          33           1          41
+ xstart,xend, ystart, yend          34          50           1          41
+ xstart,xend, ystart, yend          51          66           1          41
+ xstart,xend, ystart, yend           1          16          42          83
+ xstart,xend, ystart, yend          17          33          42          83
+ xstart,xend, ystart, yend          34          50          42          83
+ xstart,xend, ystart, yend          51          66          42          83
+ xstart,xend, ystart, yend           1          16          42          83
+ xstart,xend, ystart, yend          17          33          42          83
+ xstart,xend, ystart, yend          34          50          42          83
+ xstart,xend, ystart, yend          51          66          42          83
+ xstart,xend, ystart, yend           1          16           1          41
+ xstart,xend, ystart, yend          17          33           1          41
+ xstart,xend, ystart, yend          34          50           1          41
+ xstart,xend, ystart, yend          51          66           1          41
+ xstart,xend, ystart, yend           1          16           1          41
+ xstart,xend, ystart, yend          17          33           1          41
+ xstart,xend, ystart, yend          34          50           1          41
+ xstart,xend, ystart, yend          51          66           1          41
+ xstart,xend, ystart, yend           1          16          42          83
+ xstart,xend, ystart, yend          17          33          42          83
+ xstart,xend, ystart, yend          34          50          42          83
+ xstart,xend, ystart, yend          51          66          42          83
+ xstart,xend, ystart, yend           1          16           1          41
+ xstart,xend, ystart, yend          17          33           1          41
+ xstart,xend, ystart, yend          34          50           1          41
+ xstart,xend, ystart, yend          51          66           1          41
+ xstart,xend, ystart, yend           1          16          42          83
+ xstart,xend, ystart, yend          17          33          42          83
+ xstart,xend, ystart, yend          34          50          42          83
+ xstart,xend, ystart, yend          51          66          42          83
+Found restart file:  'RESTART/RESTART.2016093000_DOMAIN1'
+RESTART TITLE attribute: RESTART FILE FROM HRLDAS v20150506
+  SOIL TEXTURE CLASSIFICATION = STAS FOUND          19  CATEGORIES
+  SOIL TEXTURE CLASSIFICATION = STAS FOUND          19  CATEGORIES
+  SOIL TEXTURE CLASSIFICATION = STAS FOUND          19  CATEGORIES
+  SOIL TEXTURE CLASSIFICATION = STAS FOUND          19  CATEGORIES
+  SOIL TEXTURE CLASSIFICATION = STAS FOUND          19  CATEGORIES
+  SOIL TEXTURE CLASSIFICATION = STAS FOUND          19  CATEGORIES
+  SOIL TEXTURE CLASSIFICATION = STAS FOUND          19  CATEGORIES
+  SOIL TEXTURE CLASSIFICATION = STAS FOUND          19  CATEGORIES
+ NTIME =         8760 KHOUR=        8760 dtbl =    3600.00000    
+ NTIME =         8760 KHOUR=        8760 dtbl =    3600.00000    
+ NTIME =         8760 KHOUR=        8760 dtbl =    3600.00000    
+ zsoil/soil_thick_input =   0.100000001      0.300000012      0.600000024       1.00000000    
+ NTIME =         8760 KHOUR=        8760 dtbl =    3600.00000    
+ zsoil/soil_thick_input =   0.100000001      0.300000012      0.600000024       1.00000000    
+ NTIME =         8760 KHOUR=        8760 dtbl =    3600.00000    
+ zsoil/soil_thick_input =   0.100000001      0.300000012      0.600000024       1.00000000    
+ NTIME =         8760 KHOUR=        8760 dtbl =    3600.00000    
+ zsoil/soil_thick_input =   0.100000001      0.300000012      0.600000024       1.00000000    
+ NTIME =         8760 KHOUR=        8760 dtbl =    3600.00000    
+ zsoil/soil_thick_input =   0.100000001      0.300000012      0.600000024       1.00000000    
+ zsoil/soil_thick_input =   0.100000001      0.300000012      0.600000024       1.00000000    
+ zsoil/soil_thick_input =   0.100000001      0.300000012      0.600000024       1.00000000    
+ NTIME =         8760 KHOUR=        8760 dtbl =    3600.00000    
+ zsoil/soil_thick_input =   0.100000001      0.300000012      0.600000024       1.00000000    
+ nlst%NSOIL =            4
+ nlst%ZSOIL8 =  -0.100000001     -0.400000006      -1.00000000      -2.00000000    
+ nlst%NSOIL =            4
+ nlst%ZSOIL8 =  -0.100000001     -0.400000006      -1.00000000      -2.00000000    
+ nlst%NSOIL =            4
+ nlst%ZSOIL8 =  -0.100000001     -0.400000006      -1.00000000      -2.00000000    
+ nlst%NSOIL =            4
+ nlst%ZSOIL8 =  -0.100000001     -0.400000006      -1.00000000      -2.00000000    
+ nlst%NSOIL =            4
+ nlst%ZSOIL8 =  -0.100000001     -0.400000006      -1.00000000      -2.00000000    
+ nlst%NSOIL =            4
+ nlst%ZSOIL8 =  -0.100000001     -0.400000006      -1.00000000      -2.00000000    
+ nlst%NSOIL =            4
+ nlst%ZSOIL8 =  -0.100000001     -0.400000006      -1.00000000      -2.00000000    
+ nlst%NSOIL =            4
+ nlst%ZSOIL8 =  -0.100000001     -0.400000006      -1.00000000      -2.00000000    
+ output of the namelist file 
+ nlst%udmap_file 
+ nlst%UDMP_OPT            0
+  nlst%RT_OPTION            1
+  nlst%CHANRTSWCRT            1
+  nlst%GW_RESTART             1
+  nlst%RSTRT_SWC              0
+  nlst%channel_option            3
+  nlst%DTRT_TER      10.0000000    
+  nlst%DTRT_CH      10.0000000    
+  nlst%SUBRTSWCRT            1
+  nlst%OVRTSWCRT            1
+  nlst%dxrt0    250.000000    
+  nlst%AGGFACTRT            4
+  nlst%GWBASESWCRT            1
+  nlst%GWSOILCPL   -556786416
+  nlst%gwChanCondSw        32767
+  nlst%gwChanCondConstIn    0.00000000    
+  nlst%gwChanCondConstOut    7.04342915E-39
+  nlst%gwIhShift   -7.49807996E+18
+  nlst%GwSpinCycles            0
+  nlst%GwPreDiag  T
+  nlst%GwPreDiagInterval        32767
+  nlst%TERADJ_SOLAR            0
+  nlst%sys_cpl            1
+  nlst%rst_typ            1
+  nlst%order_to_write            1
+  nlst%route_topo_f                                                                                                                                                                                                                                                                   
+  nlst%route_chan_f                                                                                                                                                                                                                                                                 
+  nlst%route_link_f                                                                                                                                                                                                                                                                 
+  nlst%compound_channel  F
+  nlst%route_lake_f ./DOMAIN/LAKEPARM.nc                                                                                                                                                                                                                                            
+  nlst%route_direction_f                                                                                                                                                                                                                                                                 
+  nlst%route_order_f                                                                                                                                                                                                                                                                 
+  nlst%gwbasmskfil ./DOMAIN/GWBASINS.nc                                                                                                                                                                                                                                            
+  nlst%gwstrmfil                                                                                                                                                                                                                                                                 
+  nlst%geo_finegrid_flnm ./DOMAIN/Fulldom.nc                                                                                                                                                                                                                                             
+  nlst%reservoir_data_ingest            0
+ rt_domain(did)%g_IXRT, rt_domain(did)%g_JXRT, rt_domain(did)%ixrt, rt_domain(did)%jxrt
+         264         332          65         165
+ rt_domain(did)%ix, rt_domain(did)%jx 
+          16          41
+ global_nx, global_ny, local_nx, local_ny
+          66          83          16          41
+ rt_domain(did)%g_IXRT, rt_domain(did)%g_JXRT, rt_domain(did)%ixrt, rt_domain(did)%jxrt
+         264         332          70         165
+ rt_domain(did)%ix, rt_domain(did)%jx 
+          17          41
+ global_nx, global_ny, local_nx, local_ny
+          66          83          17          41
+ rt_domain(did)%g_IXRT, rt_domain(did)%g_JXRT, rt_domain(did)%ixrt, rt_domain(did)%jxrt
+         264         332          70         165
+ rt_domain(did)%ix, rt_domain(did)%jx 
+          17          41
+ global_nx, global_ny, local_nx, local_ny
+          66          83          17          41
+ rt_domain(did)%g_IXRT, rt_domain(did)%g_JXRT, rt_domain(did)%ixrt, rt_domain(did)%jxrt
+         264         332          65         165
+ rt_domain(did)%ix, rt_domain(did)%jx 
+          16          41
+ global_nx, global_ny, local_nx, local_ny
+          66          83          16          41
+ rt_domain(did)%g_IXRT, rt_domain(did)%g_JXRT, rt_domain(did)%ixrt, rt_domain(did)%jxrt
+         264         332          65         169
+ rt_domain(did)%ix, rt_domain(did)%jx 
+          16          42
+ global_nx, global_ny, local_nx, local_ny
+          66          83          16          42
+ rt_domain(did)%g_IXRT, rt_domain(did)%g_JXRT, rt_domain(did)%ixrt, rt_domain(did)%jxrt
+         264         332          70         169
+ rt_domain(did)%ix, rt_domain(did)%jx 
+          17          42
+ global_nx, global_ny, local_nx, local_ny
+          66          83          17          42
+ rt_domain(did)%g_IXRT, rt_domain(did)%g_JXRT, rt_domain(did)%ixrt, rt_domain(did)%jxrt
+         264         332          70         169
+ rt_domain(did)%ix, rt_domain(did)%jx 
+          17          42
+ global_nx, global_ny, local_nx, local_ny
+          66          83          17          42
+ rt_domain(did)%g_IXRT, rt_domain(did)%g_JXRT, rt_domain(did)%ixrt, rt_domain(did)%jxrt
+         264         332          65         169
+ rt_domain(did)%ix, rt_domain(did)%jx 
+          16          42
+ global_nx, global_ny, local_nx, local_ny
+          66          83          16          42
+ Channel Option in Routedim is            3
+ read LINKID for CH_LNKRT from ./DOMAIN/Fulldom.nc
+ NLINKS IS         3625
+ found type 0 nodes        3620
+ Boundary Pour Point S        3621           1         165           2
+ Boundary Pour Point W        3622           0         189          35
+ Boundary Pour Point S        3623           0         165          50
+ Boundary Pour Point SW        3624           0         148          89
+ Boundary Pour Point SE        3625           0          97         100
+ total number of channel elements        3625
+ total number of NLINKS                  3625
+ finish read_red ..  Total Number of Lakes in Domain =            1
+ before rt_allocate after READ_ROUTEDIM
+ before rt_allocate after READ_ROUTEDIM
+ before rt_allocate after READ_ROUTEDIM
+ before rt_allocate after READ_ROUTEDIM
+ before rt_allocate after READ_ROUTEDIM
+ before rt_allocate after READ_ROUTEDIM
+ before rt_allocate after READ_ROUTEDIM
+ before rt_allocate after READ_ROUTEDIM
+   rt_allocate ***** ixrt,jxrt, nsoil          65         165           4
+   rt_allocate ***** ixrt,jxrt, nsoil          70         165           4
+   rt_allocate ***** ixrt,jxrt, nsoil          65         165           4
+   rt_allocate ***** ixrt,jxrt, nsoil          70         165           4
+   rt_allocate ***** ixrt,jxrt, nsoil          65         169           4
+   rt_allocate ***** ixrt,jxrt, nsoil          70         169           4
+   rt_allocate ***** ixrt,jxrt, nsoil          65         169           4
+   rt_allocate ***** ixrt,jxrt, nsoil          70         169           4
+ ***** finish rt_allocate 
+ finish getChanDim 
+ ***** finish rt_allocate 
+ finish getChanDim 
+ ***** finish rt_allocate 
+ finish getChanDim 
+ ***** finish rt_allocate 
+ finish getChanDim 
+ ***** finish rt_allocate 
+ finish getChanDim 
+ ***** finish rt_allocate 
+ finish getChanDim 
+ ***** finish rt_allocate 
+ finish getChanDim 
+ ***** finish rt_allocate 
+ finish getChanDim 
+ get_file_globalatts: ISWATER ISURBAN ISOILWATER          17          13          14
+ hydro_ini: rt_domain(did)%iswater, rt_domain(did)%isurban, rt_domain(did)%isoilwater
+          17          13          14
+          16          41
+ hydro_ini: rt_domain(did)%iswater, rt_domain(did)%isurban, rt_domain(did)%isoilwater
+          17          13          14
+          17          41
+ hydro_ini: rt_domain(did)%iswater, rt_domain(did)%isurban, rt_domain(did)%isoilwater
+          17          13          14
+          17          41
+ hydro_ini: rt_domain(did)%iswater, rt_domain(did)%isurban, rt_domain(did)%isoilwater
+          17          13          14
+          16          41
+ hydro_ini: rt_domain(did)%iswater, rt_domain(did)%isurban, rt_domain(did)%isoilwater
+          17          13          14
+          16          42
+ hydro_ini: rt_domain(did)%iswater, rt_domain(did)%isurban, rt_domain(did)%isoilwater
+          17          13          14
+          17          42
+ hydro_ini: rt_domain(did)%iswater, rt_domain(did)%isurban, rt_domain(did)%isoilwater
+          17          13          14
+          17          42
+ hydro_ini: rt_domain(did)%iswater, rt_domain(did)%isurban, rt_domain(did)%isoilwater
+          17          13          14
+          16          42
+ start to read variable HGT
+ start to read variable HGT
+ start to read variable HGT
+ start to read variable HGT
+ start to read variable HGT
+ start to read variable HGT
+ start to read variable HGT
+ start to read variable HGT
+ finish reading variable HGT
+ start to read variable XLAT
+ finish reading variable HGT
+ start to read variable XLAT
+ finish reading variable HGT
+ start to read variable XLAT
+ finish reading variable HGT
+ start to read variable XLAT
+ finish reading variable HGT
+ start to read variable XLAT
+ finish reading variable HGT
+ start to read variable XLAT
+ finish reading variable HGT
+ start to read variable XLAT
+ finish reading variable HGT
+ start to read variable XLAT
+ finish reading variable XLAT
+ start to read variable XLONG
+ finish reading variable XLAT
+ start to read variable XLONG
+ finish reading variable XLAT
+ start to read variable XLONG
+ finish reading variable XLAT
+ start to read variable XLONG
+ finish reading variable XLAT
+ start to read variable XLONG
+ finish reading variable XLAT
+ start to read variable XLONG
+ finish reading variable XLAT
+ start to read variable XLONG
+ finish reading variable XLAT
+ start to read variable XLONG
+ finish reading variable XLONG
+ finish reading variable XLONG
+ finish reading variable XLONG
+ finish reading variable XLONG
+ finish reading variable XLONG
+ finish reading variable XLONG
+ finish reading variable XLONG
+ finish reading variable XLONG
+ reading from hydrotbl_f(HYDRO.TBL.nc)  file ....
+ reading from hydrotbl_f(HYDRO.TBL.nc)  file ....
+ reading from hydrotbl_f(HYDRO.TBL.nc)  file ....
+ reading from hydrotbl_f(HYDRO.TBL.nc)  file ....
+ reading from hydrotbl_f(HYDRO.TBL.nc)  file ....
+ reading from hydrotbl_f(HYDRO.TBL.nc)  file ....
+ reading from hydrotbl_f(HYDRO.TBL.nc)  file ....
+ reading from hydrotbl_f(HYDRO.TBL.nc)  file ....
+ finish decomposion
+ finish decomposion
+ finish decomposion
+ finish decomposion
+ finish decomposion
+ finish decomposion
+ finish decomposion
+ finish decomposion
+ finished get_dxdy_mp 
+ finished get_dxdy_mp 
+ finished get_dxdy_mp 
+ finished get_dxdy_mp 
+ finished get_dxdy_mp 
+ finished get_dxdy_mp 
+ finished get_dxdy_mp 
+ finished get_dxdy_mp 
+ finished get_dxdy_mp 
+ Terrain routing initialization...
+ Terrain routing initialization...
+ Terrain routing initialization...
+ Terrain routing initialization...
+ Terrain routing initialization...
+ Terrain routing initialization...
+ Terrain routing initialization...
+ Terrain routing initialization...
+ read linkid grid CH_LNKRT TOPOGRAPHY                                                                                                                                                                                                                                                      
+ read linkid grid CH_LNKRT TOPOGRAPHY                                                                                                                                                                                                                                                      
+ read linkid grid CH_LNKRT TOPOGRAPHY                                                                                                                                                                                                                                                      
+ read linkid grid CH_LNKRT TOPOGRAPHY                                                                                                                                                                                                                                                      
+ read linkid grid CH_LNKRT TOPOGRAPHY                                                                                                                                                                                                                                                      
+ read linkid grid CH_LNKRT TOPOGRAPHY                                                                                                                                                                                                                                                      
+ read linkid grid CH_LNKRT TOPOGRAPHY                                                                                                                                                                                                                                                      
+ read linkid grid CH_LNKRT TOPOGRAPHY                                                                                                                                                                                                                                                      
+ read CHANNELGRID                                                                                                                                                                                                                                                     
+ read CHANNELGRID                                                                                                                                                                                                                                                     
+ read CHANNELGRID                                                                                                                                                                                                                                                     
+ read CHANNELGRID                                                                                                                                                                                                                                                     
+ read CHANNELGRID                                                                                                                                                                                                                                                     
+ read CHANNELGRID                                                                                                                                                                                                                                                     
+ read CHANNELGRID                                                                                                                                                                                                                                                     
+ read CHANNELGRID                                                                                                                                                                                                                                                     
+ read LKSATFAC                                                                                                                                                                                                                                                        
+ read LKSATFAC                                                                                                                                                                                                                                                        
+ read LKSATFAC                                                                                                                                                                                                                                                        
+ read LKSATFAC                                                                                                                                                                                                                                                        
+ read LKSATFAC                                                                                                                                                                                                                                                        
+ read LKSATFAC                                                                                                                                                                                                                                                        
+ read LKSATFAC                                                                                                                                                                                                                                                        
+ read LKSATFAC                                                                                                                                                                                                                                                        
+ finish READ_ROUTING_seq
+ finish READ_ROUTING_seq
+ finish READ_ROUTING_seq
+ finish READ_ROUTING_seq
+ finish READ_ROUTING_seq
+ finish READ_ROUTING_seq
+ finish READ_ROUTING_seq
+ finish READ_ROUTING_seq
+ WARNING: get2d_real: failed to find the variables: CHAN_DEPTH and CHAN_DEPTH                                                                                                                                                                                    
+ Before read LAKEPARM from NetCDF ./DOMAIN/LAKEPARM.nc
+ NLAKES =            1
+ start read_route_lake_netcdf
+ last index=           1
+ HRZAREA   202.362000    
+ LAKEMAXH   5160.00000     WEIRC  0.400000006     WEIRL   10.0000000    
+ ORIFICEC  0.100000001     ORIFICEA   1.00000000     ORIFICEE   2574.00000    
+ finish read_route_lake_netcdf
+ after exiting the channel, this many nodes          21
+  
+ after exiting the channel, this many nodes          33
+  
+ my_id=           0 cnt =           10
+ after exiting the channel, this many nodes         302
+  
+ my_id=           1 cnt =          157
+ after exiting the channel, this many nodes         427
+  
+ my_id=           3 cnt =          308
+ after exiting the channel, this many nodes         449
+  
+ my_id=           6 cnt =          420
+ my_id=           7 cnt =           30
+ after exiting the channel, this many nodes         813
+  
+ my_id=           2 cnt =          588
+ after exiting the channel, this many nodes         651
+  
+ my_id=           4 cnt =          647
+ after exiting the channel, this many nodes        1081
+  
+ my_id=           5 cnt =          869
+ nlinks=          21  yw_mpp_nlinks=          14  nlakes=           1
+ nlinks=         427  yw_mpp_nlinks=         410  nlakes=           1
+ nlinks=         651  yw_mpp_nlinks=         626  nlakes=           1
+ nlinks=        1081  yw_mpp_nlinks=        1042  nlakes=           1
+ nlinks=         449  yw_mpp_nlinks=         429  nlakes=           1
+ nlinks=          33  yw_mpp_nlinks=          30  nlakes=           1
+ nlinks=         302  yw_mpp_nlinks=         287  nlakes=           1
+ nlinks=         813  yw_mpp_nlinks=         787  nlakes=           1
+ new Simple GW-Bucket Scheme selected, retrieving files...
+ new Simple GW-Bucket Scheme selected, retrieving files...
+ new Simple GW-Bucket Scheme selected, retrieving files...
+ new Simple GW-Bucket Scheme selected, retrieving files...
+ new Simple GW-Bucket Scheme selected, retrieving files...
+ new Simple GW-Bucket Scheme selected, retrieving files...
+ new Simple GW-Bucket Scheme selected, retrieving files...
+ new Simple GW-Bucket Scheme selected, retrieving files...
+ read gwbasmskfil as nc format: ./DOMAIN/GWBASINS.nc
+ numbasns =          454
+ check numbasns, gnumbasns :            2         454
+ rt_domain(did)%gnumbasns, rt_domain(did)%numbasns,          454           2
+ check numbasns, gnumbasns :           61         454
+ rt_domain(did)%gnumbasns, rt_domain(did)%numbasns,          454          61
+ check numbasns, gnumbasns :           90         454
+ rt_domain(did)%gnumbasns, rt_domain(did)%numbasns,          454          90
+ check numbasns, gnumbasns :          134         454
+ rt_domain(did)%gnumbasns, rt_domain(did)%numbasns,          454         134
+ check numbasns, gnumbasns :           71         454
+ rt_domain(did)%gnumbasns, rt_domain(did)%numbasns,          454          71
+ check numbasns, gnumbasns :            6         454
+ rt_domain(did)%gnumbasns, rt_domain(did)%numbasns,          454           6
+ check numbasns, gnumbasns :           30         454
+ rt_domain(did)%gnumbasns, rt_domain(did)%numbasns,          454          30
+ check numbasns, gnumbasns :          116         454
+ rt_domain(did)%gnumbasns, rt_domain(did)%numbasns,          454         116
+ end Simple GW-Bucket ...
+ Simple GW-Bucket Scheme selected, retrieving files...
+ end Simple GW-Bucket ...
+ Simple GW-Bucket Scheme selected, retrieving files...
+ end Simple GW-Bucket ...
+ Simple GW-Bucket Scheme selected, retrieving files...
+ end Simple GW-Bucket ...
+ Simple GW-Bucket Scheme selected, retrieving files...
+ end Simple GW-Bucket ...
+ Simple GW-Bucket Scheme selected, retrieving files...
+ end Simple GW-Bucket ...
+ Simple GW-Bucket Scheme selected, retrieving files...
+ end Simple GW-Bucket ...
+ Simple GW-Bucket Scheme selected, retrieving files...
+ end Simple GW-Bucket ...
+ Simple GW-Bucket Scheme selected, retrieving files...
+ read GWBUCKPARM file as nc format: ./DOMAIN/GWBUCKPARM.nc
+ Starting GW basin levels...   10.0000000       10.0000000    
+ Starting GW basin levels...   10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000    
+ StreamOrder
+ CHANNEL DATA SOURCE TYPE = StreamOrder FOUND          10  CATEGORIES
+           1   1.50000000       1.99999996E-02   3.00000000      0.550000012    
+ Starting GW basin levels...   10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000    
+ Starting GW basin levels...   10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000    
+ Starting GW basin levels...   10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000    
+ Starting GW basin levels...   10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000    
+           2   3.00000000       1.99999996E-02   1.00000000      0.349999994    
+           3   5.00000000       1.99999996E-02  0.500000000      0.150000006    
+           4   10.0000000       2.99999993E-02  0.180000007      0.100000001    
+           5   20.0000000       2.99999993E-02   5.00000007E-02   7.00000003E-02
+           6   40.0000000       2.99999993E-02   5.00000007E-02   5.00000007E-02
+           7   60.0000000       2.99999993E-02   5.00000007E-02   3.99999991E-02
+           8   70.0000000      0.100000001       5.00000007E-02   2.99999993E-02
+           9   80.0000000      0.300000012       5.00000007E-02   1.99999996E-02
+          10   100.000000      0.300000012       5.00000007E-02   9.99999978E-03
+ Starting GW basin levels...   10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000    
+ Starting GW basin levels...   10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000       10.0000000    
+ finish LandRT_ini
+ finish LandRT_ini
+ finish LandRT_ini
+ finish LandRT_ini
+ finish LandRT_ini
+ finish LandRT_ini
+ finish LandRT_ini
+ finish LandRT_ini
+ *** read restart data: RESTART/HYDRO_RST.2016-09-30_00:00_DOMAIN1
+ nlst_rt(did)%nsoil=           4
+ read restart variable stcð’
+ nlst_rt(did)%nsoil=           4
+ read restart variable stc g
+ nlst_rt(did)%nsoil=           4
+ read restart variable stcÐ&
+ nlst_rt(did)%nsoil=           4
+ read restart variable stcÐ
+
+ nlst_rt(did)%nsoil=           4
+ read restart variable stc1
+ nlst_rt(did)%nsoil=           4
+ read restart variable stc k
+ nlst_rt(did)%nsoil=           4
+ read restart variable stc &
+ read restart variable stc &
+ nlst_rt(did)%nsoil=           4
+ read restart variable stcPú
+ read restart variable stcPú
+ read restart variable stc2
+ read restart variable stc k
+ read restart variable stcð’
+ read restart variable stc g
+ read restart variable stc g
+ read restart variable stcÐ&
+ read restart variable stcÐ&
+ read restart variable stcÐ
+
+ read restart variable stcÐ
+
+ read restart variable stc3
+ read restart variable stc k
+ read restart variable stc &
+ read restart variable stc &
+ read restart variable stcð’
+ read restart variable stcð’
+ read restart variable stcPú
+ read restart variable stcPú
+ read restart variable stc4
+ read restart variable stc k
+ read restart variable stc g
+ read restart variable smc g
+ read restart variable stcÐ&
+ read restart variable smcÐ&
+ read restart variable stcÐ
+
+ read restart variable smcÐ
+
+ read restart variable smc1
+ read restart variable smc k
+ read restart variable smc &
+ read restart variable smc &
+ read restart variable smcð’
+ read restart variable smcð’
+ read restart variable smcPú
+ read restart variable smcPú
+ read restart variable smc2
+ read restart variable smc k
+ read restart variable smc k
+ read restart variable smc g
+ read restart variable smc g
+ read restart variable smcÐ&
+ read restart variable smcÐ&
+ read restart variable smcÐ
+
+ read restart variable smcÐ
+
+ read restart variable smc3
+ read restart variable smc4
+ read restart variable smc &
+ read restart variable smc &
+ read restart variable smcð’
+ read restart variable smcð’
+ read restart variable smcPú
+ read restart variable smcPú
+ read restart variable smc k
+ read restart variable smc g
+ read restart variable sh2ox g
+ read restart variable smcÐ&
+ read restart variable sh2oxÐ&
+ read restart variable smcÐ
+
+ read restart variable sh2oxÐ
+
+ read restart variable sh2ox1
+ read restart variable sh2ox k
+ read restart variable sh2ox &
+ read restart variable sh2ox &
+ read restart variable sh2oxð’
+ read restart variable sh2oxð’
+ read restart variable sh2oxPú
+ read restart variable sh2oxPú
+ read restart variable sh2ox2
+ read restart variable sh2ox k
+ read restart variable sh2ox g
+ read restart variable sh2ox g
+ read restart variable sh2oxÐ&
+ read restart variable sh2oxÐ&
+ read restart variable sh2oxÐ
+
+ read restart variable sh2oxÐ
+
+ read restart variable sh2ox3
+ read restart variable sh2ox k
+ read restart variable sh2ox &
+ read restart variable sh2ox &
+ read restart variable sh2oxð’
+ read restart variable sh2oxð’
+ read restart variable sh2oxPú
+ read restart variable sh2oxPú
+ read restart variable sh2ox4
+ read restart variable sh2ox k
+ read restart variable sh2ox g
+ read restart variable infxsrt
+ read restart variable sh2oxÐ&
+ read restart variable infxsrt
+ read restart variable sh2oxÐ
+
+ read restart variable infxsrt
+ read restart variable infxsrt
+ read restart variable infxsrt
+ read restart variable infxsrt
+ read restart variable sfcheadrt
+ read restart variable infxsrt
+ read restart variable sfcheadrt
+ read restart variable infxsrt
+ read restart variable sfcheadrt
+ read restart variable sfcheadrt
+ read restart variable sfcheadrt
+ read restart variable sfcheadrt
+ read restart variable soldrain
+ read restart variable sfcheadrt
+ read restart variable soldrain
+ read restart variable sfcheadrt
+ read restart variable soldrain
+ read restart variable soldrain
+ read restart variable soldrain
+ read restart variable soldrain
+ read restart variable soldrain
+ read restart variable soldrain
+ read restart variable infxswgt
+ read restart variable infxswgt
+ read restart variable infxswgt
+ read restart variable infxswgt
+ read restart variable infxswgt
+ read restart variable infxswgt
+ read restart variable infxswgt
+ read restart variable infxswgt
+ read restart variable sfcheadsubrt
+ read restart variable sfcheadsubrt
+ read restart variable sfcheadsubrt
+ read restart variable sfcheadsubrt
+ read restart variable sfcheadsubrt
+ read restart variable sfcheadsubrt
+ read restart variable sfcheadsubrt
+ read restart variable sfcheadsubrt
+ read restart variable QBDRYRT
+ read restart variable QBDRYRT
+ read restart variable QBDRYRT
+ read restart variable QBDRYRT
+ read restart variable QBDRYRT
+ read restart variable QBDRYRT
+ read restart variable QBDRYRT
+ read restart variable QBDRYRT
+ read restart variable qstrmvolrt
+ read restart variable qstrmvolrt
+ read restart variable qstrmvolrt
+ read restart variable qstrmvolrt
+ read restart variable qstrmvolrt
+ read restart variable qstrmvolrt
+ read restart variable qstrmvolrt
+ read restart variable qstrmvolrt
+ read restart variable sh2owgt1
+ read restart variable sh2owgt1
+ read restart variable sh2owgt1
+ read restart variable sh2owgt1
+ read restart variable sh2owgt1
+ read restart variable sh2owgt1
+ read restart variable sh2owgt1
+ read restart variable sh2owgt1
+ read restart variable sh2owgt2
+ read restart variable sh2owgt2
+ read restart variable sh2owgt2
+ read restart variable sh2owgt2
+ read restart variable sh2owgt2
+ read restart variable sh2owgt2
+ read restart variable sh2owgt2
+ read restart variable sh2owgt2
+ read restart variable sh2owgt3
+ read restart variable sh2owgt3
+ read restart variable sh2owgt3
+ read restart variable sh2owgt3
+ read restart variable sh2owgt3
+ read restart variable sh2owgt3
+ read restart variable sh2owgt3
+ read restart variable sh2owgt3
+ read restart variable sh2owgt4
+ read restart variable sh2owgt4
+ read restart variable sh2owgt4
+ read restart variable sh2owgt4
+ read restart variable sh2owgt4
+ read restart variable sh2owgt4
+ read restart variable sh2owgt4
+ read restart variable sh2owgt4
+ read restart variable hlink
+ read restart variable hlink
+ read restart variable hlink
+ read restart variable hlink
+ read restart variable hlink
+ read restart variable hlink
+ read restart variable hlink
+ read restart variable hlink
+ read restart variable qlink1
+ read restart variable qlink1
+ read restart variable qlink1
+ read restart variable qlink1
+ read restart variable qlink1
+ read restart variable qlink2
+ read restart variable qlink1
+ read restart variable qlink2
+ read restart variable qlink1
+ read restart variable qlink2
+ read restart variable qlink1
+ read restart variable qlink2
+ read restart variable qlink2
+ read restart variable qlink2
+ read restart variable cvol
+ read restart variable qlink2
+ read restart variable cvol
+ read restart variable qlink2
+ read restart variable cvol
+ read restart variable cvol
+ read restart variable cvol
+ read restart variable resht
+ read restart variable cvol
+ read restart variable resht
+ read restart variable qlakeo
+ read restart variable cvol
+ read restart variable resht
+ read restart variable qlakeo
+ read restart variable qlakei
+ read restart variable cvol
+ read restart variable resht
+ read restart variable qlakeo
+ read restart variable qlakei
+ read restart variable resht
+ read restart variable qlakeo
+ read restart variable qlakei
+ read restart variable qlakeo
+ read restart variable qlakei
+ read restart variable qlakei
+ read restart variable resht
+ read restart variable qlakeo
+ read restart variable qlakei
+ read restart variable resht
+ read restart variable qlakeo
+ read restart variable qlakei
+ read restart variable lake_inflort
+ read restart variable resht
+ read restart variable qlakeo
+ read restart variable qlakei
+ read restart variable lake_inflort
+ read restart variable lake_inflort
+ read restart variable lake_inflort
+ read restart variable lake_inflort
+ read restart variable lake_inflort
+ read restart variable lake_inflort
+ read restart variable lake_inflort
+ read restart variable z_gwsubbas
+ read restart variable z_gwsubbas
+ end of RESTART_IN
+ read restart variable z_gwsubbas
+ end of RESTART_IN
+ read restart variable z_gwsubbas
+ end of RESTART_IN
+ read restart variable z_gwsubbas
+ end of RESTART_IN
+ read restart variable z_gwsubbas
+ end of RESTART_IN
+ read restart variable z_gwsubbas
+ end of RESTART_IN
+ read restart variable z_gwsubbas
+ end of RESTART_IN
+ end of RESTART_IN

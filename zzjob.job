@@ -1,0 +1,14 @@
+#!/bin/bash 
+
+#SBATCH -N 1
+#SBATCH -n 46
+#SBATCH -J zzjob.job
+#SBATCH -o 0OUTPUT.out
+#SBATCH -e 0ERORR.error
+#SBATCH -p mh1
+#SBATCH -q mh1
+#SBATCH --mail-type=ALL
+#SBATCH --mail-user=kgavahi@crimson.ua.edu
+
+time srun -n 1 python ./main.py
+
