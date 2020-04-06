@@ -1,0 +1,2186 @@
+ t0OutputFlag:            1
+ read forcing data at 2016-09-30_00:00:00/mh1/kgavahi/WRF_Hydro4/FORCING/2016093001.LDASIN_DOMAIN1
+ Beginning Disaggregation...
+ Disagg Mass Bal: 
+ WB_DISAG!InfxsDiff   6.31967559E-04
+ WB_DISAG!Infxs1   4.18854319E-03
+ WB_DISAG!Infxs2   4.82051075E-03
+ WB_DISAG!SMCDIff  -24.3460083    
+ WB_DISAG!SMC1   591.394104    
+ WB_DISAG!SICE1   22.4431400    
+ WB_DISAG!SMC2   544.604980    
+ WB_DISAG!Residual  -24.3453770    
+ After Disaggregation...
+ Beginning SUB_routing...
+ Routing method is            1  direction.
+ calling subsurface routing subroutine...Opt.            1
+ call subsurface routing xx= , yy =         332          37
+ finish calling ROUTE_SUBSURFACE            1
+ SUBSFC Routing Mass Bal: 
+ WB_SUB!QsubDiff  -4.06089166E-05
+ WB_SUB!Qsub1   0.00000000    
+ WB_SUB!Qsub2  -4.06089166E-05
+ WB_SUB!InfxsDiff   3.26012727E-04
+ WB_SUB!Infxs1   4.83736023E-03
+ WB_SUB!Infxs2   5.16337296E-03
+ WB_SUB!QbdryDiff  -7.94788721E-05
+ WB_SUB!Qbdry1   0.00000000    
+ WB_SUB!Qbdry2  -7.94788721E-05
+ WB_SUB!SMCDiff  -7.32421875E-04
+ WB_SUB!SMC1   568.948914    
+ WB_SUB!SMC2   568.948181    
+ WB_SUB!Residual   4.06409148E-04
+ SUBROUTE routing called and returned...
+ Timing: Subsurface Routing  accumulated time--   3.00000003E-03
+ Beginning OV_routing...
+ Routing method is            1  direction.
+ calling OV_RTNG 
+ OV_RTNG  DT_FRAC, DT, DTRT_TER   360.000000       3600.00000       10.0000000    
+ IXRT, JXRT =           37         332
+ End of OV_routing call...
+ OV routing called and returned...
+ OV Routing Mass Bal: 
+ WB_OV!InfxsDiff  -2.24919058E-05
+ WB_OV!Infxs1   5.16337296E-03
+ WB_OV!Infxs2   5.14088105E-03
+ WB_OV!ChaninDiff   0.00000000    
+ WB_OV!Chanin1   0.00000000    
+ WB_OV!Chanin2   0.00000000    
+ WB_OV!LakeinDiff   7.62939453E-06
+ WB_OV!Lakein1   35.9138069    
+ WB_OV!Lakein2   35.9138145    
+ WB_OV!QbdryDiff   0.00000000    
+ WB_OV!Qbdry1  -192.553009    
+ WB_OV!Qbdry2  -192.553009    
+ WB_OV!Residual  -3.01213004E-05
+ Timing: Overland Routing  accumulated time--  0.181999996    
+ *****yw******start simp_gw_buck 
+ *****yw******end simp_gw_buck 
+ Timing: GwBaseflow  accumulated time--   0.00000000    
+ finished call drive_CHANNEL
+ *****yw******end drive_CHANNEL 
+ Timing: Channel Routing  accumulated time--  0.338000000    
+ Beginning Aggregation...
+ Agg Mass Bal: 
+ WB_AGG!InfxsDiff   1.42123550E-04
+ WB_AGG!Infxs1   5.14088105E-03
+ WB_AGG!Infxs2   5.28300460E-03
+ WB_AGG!SMCDiff   1.56211853E-03
+ WB_AGG!SMC1   568.948181    
+ WB_AGG!SMC2   591.392883    
+ WB_AGG!SICE2   22.4431400    
+ WB_AGG!Residual   1.70424208E-03
+ Finished Aggregation...
+ current time is 2016-09-30_01:00:00
+ output hydrology at time : 2016-09-30_01:00:00
+ before call output_chrt
+ end calling output functions
+ accumulated time (s):    2.0000000000000000     
+ ***DATE=2016-09-30_01:00:00 304.28140   0.00000    Timing:   0.79 Cumulative:        0.79  SFLX:   0.02
+ read forcing data at 2016-09-30_01:00:00/mh1/kgavahi/WRF_Hydro4/FORCING/2016093002.LDASIN_DOMAIN1
+ Beginning Disaggregation...
+ Disagg Mass Bal: 
+ WB_DISAG!InfxsDiff   7.60674011E-05
+ WB_DISAG!Infxs1   2.50411383E-03
+ WB_DISAG!Infxs2   2.58018123E-03
+ WB_DISAG!SMCDIff  -1.95312500E-03
+ WB_DISAG!SMC1   591.396545    
+ WB_DISAG!SICE1   22.4431400    
+ WB_DISAG!SMC2   568.951477    
+ WB_DISAG!Residual  -1.87705760E-03
+ After Disaggregation...
+ Beginning SUB_routing...
+ Routing method is            1  direction.
+ calling subsurface routing subroutine...Opt.            1
+ call subsurface routing xx= , yy =         332          37
+ finish calling ROUTE_SUBSURFACE            1
+ SUBSFC Routing Mass Bal: 
+ WB_SUB!QsubDiff  -7.07324361E-05
+ WB_SUB!Qsub1   0.00000000    
+ WB_SUB!Qsub2  -7.07324361E-05
+ WB_SUB!InfxsDiff   3.54462070E-04
+ WB_SUB!Infxs1   2.59603304E-03
+ WB_SUB!Infxs2   2.95049511E-03
+ WB_SUB!QbdryDiff  -1.86970976E+18
+ WB_SUB!Qbdry1   1.86970976E+18
+ WB_SUB!Qbdry2  -1.57902556E-04
+ WB_SUB!SMCDiff  -7.93457031E-04
+ WB_SUB!SMC1   568.950867    
+ WB_SUB!SMC2   568.950073    
+ WB_SUB!Residual   4.38994961E-04
+ SUBROUTE routing called and returned...
+ Timing: Subsurface Routing  accumulated time--   6.00000005E-03
+ Beginning OV_routing...
+ Routing method is            1  direction.
+ calling OV_RTNG 
+ OV_RTNG  DT_FRAC, DT, DTRT_TER   360.000000       3600.00000       10.0000000    
+ IXRT, JXRT =           37         332
+ End of OV_routing call...
+ OV routing called and returned...
+ OV Routing Mass Bal: 
+ WB_OV!InfxsDiff  -2.45661940E-05
+ WB_OV!Infxs1   2.95049511E-03
+ WB_OV!Infxs2   2.92592891E-03
+ WB_OV!ChaninDiff   0.00000000    
+ WB_OV!Chanin1   0.00000000    
+ WB_OV!Chanin2   0.00000000    
+ WB_OV!LakeinDiff   1.14440918E-05
+ WB_OV!Lakein1   35.9138145    
+ WB_OV!Lakein2   35.9138260    
+ WB_OV!QbdryDiff  -1.52587891E-05
+ WB_OV!Qbdry1  -192.553009    
+ WB_OV!Qbdry2  -192.553024    
+ WB_OV!Residual  -2.07514968E-05
+ Timing: Overland Routing  accumulated time--  0.365000010    
+ *****yw******start simp_gw_buck 
+ *****yw******end simp_gw_buck 
+ Timing: GwBaseflow  accumulated time--   1.00000005E-03
+ finished call drive_CHANNEL
+ *****yw******end drive_CHANNEL 
+ Timing: Channel Routing  accumulated time--  0.675000012    
+ Beginning Aggregation...
+ Agg Mass Bal: 
+ WB_AGG!InfxsDiff   7.81263225E-05
+ WB_AGG!Infxs1   2.92592891E-03
+ WB_AGG!Infxs2   3.00405524E-03
+ WB_AGG!SMCDiff   2.72178650E-03
+ WB_AGG!SMC1   568.950073    
+ WB_AGG!SMC2   591.395935    
+ WB_AGG!SICE2   22.4431400    
+ WB_AGG!Residual   2.79991282E-03
+ Finished Aggregation...
+ current time is 2016-09-30_02:00:00
+ output hydrology at time : 2016-09-30_02:00:00
+ before call output_chrt
+ end calling output functions
+ accumulated time (s):    2.0000000000000000     
+ ***DATE=2016-09-30_02:00:00 302.25992   0.00000    Timing:   0.60 Cumulative:        1.39  SFLX:   0.01
+ read forcing data at 2016-09-30_02:00:00/mh1/kgavahi/WRF_Hydro4/FORCING/2016093003.LDASIN_DOMAIN1
+ Beginning Disaggregation...
+ Disagg Mass Bal: 
+ WB_DISAG!InfxsDiff   7.70734623E-05
+ WB_DISAG!Infxs1   2.20146519E-03
+ WB_DISAG!Infxs2   2.27853865E-03
+ WB_DISAG!SMCDIff  -2.74658203E-03
+ WB_DISAG!SMC1   591.401245    
+ WB_DISAG!SICE1   22.4431400    
+ WB_DISAG!SMC2   568.955383    
+ WB_DISAG!Residual  -2.66950857E-03
+ After Disaggregation...
+ Beginning SUB_routing...
+ Routing method is            1  direction.
+ calling subsurface routing subroutine...Opt.            1
+ call subsurface routing xx= , yy =         332          37
+ finish calling ROUTE_SUBSURFACE            1
+ SUBSFC Routing Mass Bal: 
+ WB_SUB!QsubDiff  -5.60494445E-05
+ WB_SUB!Qsub1   0.00000000    
+ WB_SUB!Qsub2  -5.60494445E-05
+ WB_SUB!InfxsDiff   3.08407005E-04
+ WB_SUB!Infxs1   2.30108271E-03
+ WB_SUB!Infxs2   2.60948972E-03
+ WB_SUB!QbdryDiff  -3.84248033E+18
+ WB_SUB!Qbdry1   3.84248033E+18
+ WB_SUB!Qbdry2  -2.34278719E-04
+ WB_SUB!SMCDiff  -4.88281250E-04
+ WB_SUB!SMC1   568.954773    
+ WB_SUB!SMC2   568.954285    
+ WB_SUB!Residual   1.79874245E-04
+ SUBROUTE routing called and returned...
+ Timing: Subsurface Routing  accumulated time--   8.99999961E-03
+ Beginning OV_routing...
+ Routing method is            1  direction.
+ calling OV_RTNG 
+ OV_RTNG  DT_FRAC, DT, DTRT_TER   360.000000       3600.00000       10.0000000    
+ IXRT, JXRT =           37         332
+ End of OV_routing call...
+ OV routing called and returned...
+ OV Routing Mass Bal: 
+ WB_OV!InfxsDiff  -2.60411762E-05
+ WB_OV!Infxs1   2.60948972E-03
+ WB_OV!Infxs2   2.58344854E-03
+ WB_OV!ChaninDiff   0.00000000    
+ WB_OV!Chanin1   0.00000000    
+ WB_OV!Chanin2   0.00000000    
+ WB_OV!LakeinDiff   1.14440918E-05
+ WB_OV!Lakein1   35.9138260    
+ WB_OV!Lakein2   35.9138374    
+ WB_OV!QbdryDiff   0.00000000    
+ WB_OV!Qbdry1  -192.553024    
+ WB_OV!Qbdry2  -192.553024    
+ WB_OV!Residual  -3.74852680E-05
+ Timing: Overland Routing  accumulated time--  0.552000046    
+ *****yw******start simp_gw_buck 
+ *****yw******end simp_gw_buck 
+ Timing: GwBaseflow  accumulated time--   1.00000005E-03
+ finished call drive_CHANNEL
+ *****yw******end drive_CHANNEL 
+ Timing: Channel Routing  accumulated time--   1.01300001    
+ Beginning Aggregation...
+ Agg Mass Bal: 
+ WB_AGG!InfxsDiff   6.52845483E-05
+ WB_AGG!Infxs1   2.58344854E-03
+ WB_AGG!Infxs2   2.64873309E-03
+ WB_AGG!SMCDiff   3.27110291E-03
+ WB_AGG!SMC1   568.954285    
+ WB_AGG!SMC2   591.400696    
+ WB_AGG!SICE2   22.4431400    
+ WB_AGG!Residual   3.33638745E-03
+ Finished Aggregation...
+ current time is 2016-09-30_03:00:00
+ output hydrology at time : 2016-09-30_03:00:00
+ before call output_chrt
+ end calling output functions
+ accumulated time (s):    2.0000000000000000     
+ ***DATE=2016-09-30_03:00:00 300.51868   0.00000    Timing:   0.60 Cumulative:        1.99  SFLX:   0.02
+ read forcing data at 2016-09-30_03:00:00/mh1/kgavahi/WRF_Hydro4/FORCING/2016093004.LDASIN_DOMAIN1
+ Beginning Disaggregation...
+ Disagg Mass Bal: 
+ WB_DISAG!InfxsDiff   6.99283555E-05
+ WB_DISAG!Infxs1   2.16447772E-03
+ WB_DISAG!Infxs2   2.23440607E-03
+ WB_DISAG!SMCDIff  -4.02832031E-03
+ WB_DISAG!SMC1   591.408203    
+ WB_DISAG!SICE1   22.4431400    
+ WB_DISAG!SMC2   568.961060    
+ WB_DISAG!Residual  -3.95839196E-03
+ After Disaggregation...
+ Beginning SUB_routing...
+ Routing method is            1  direction.
+ calling subsurface routing subroutine...Opt.            1
+ call subsurface routing xx= , yy =         332          37
+ finish calling ROUTE_SUBSURFACE            1
+ SUBSFC Routing Mass Bal: 
+ WB_SUB!QsubDiff  -6.13715310E-05
+ WB_SUB!Qsub1   0.00000000    
+ WB_SUB!Qsub2  -6.13715310E-05
+ WB_SUB!InfxsDiff   2.35621817E-04
+ WB_SUB!Infxs1   2.26724450E-03
+ WB_SUB!Infxs2   2.50286632E-03
+ WB_SUB!QbdryDiff  -5.83291798E+18
+ WB_SUB!Qbdry1   5.83291798E+18
+ WB_SUB!Qbdry2  -3.08682997E-04
+ WB_SUB!SMCDiff  -4.88281250E-04
+ WB_SUB!SMC1   568.960815    
+ WB_SUB!SMC2   568.960327    
+ WB_SUB!Residual   2.52659433E-04
+ SUBROUTE routing called and returned...
+ Timing: Subsurface Routing  accumulated time--   1.09999999E-02
+ Beginning OV_routing...
+ Routing method is            1  direction.
+ calling OV_RTNG 
+ OV_RTNG  DT_FRAC, DT, DTRT_TER   360.000000       3600.00000       10.0000000    
+ IXRT, JXRT =           37         332
+ End of OV_routing call...
+ OV routing called and returned...
+ OV Routing Mass Bal: 
+ WB_OV!InfxsDiff  -2.66712159E-05
+ WB_OV!Infxs1   2.50286632E-03
+ WB_OV!Infxs2   2.47619511E-03
+ WB_OV!ChaninDiff   0.00000000    
+ WB_OV!Chanin1   0.00000000    
+ WB_OV!Chanin2   0.00000000    
+ WB_OV!LakeinDiff   1.14440918E-05
+ WB_OV!Lakein1   35.9138374    
+ WB_OV!Lakein2   35.9138489    
+ WB_OV!QbdryDiff   0.00000000    
+ WB_OV!Qbdry1  -192.553024    
+ WB_OV!Qbdry2  -192.553024    
+ WB_OV!Residual  -3.81153077E-05
+ Timing: Overland Routing  accumulated time--  0.831000090    
+ *****yw******start simp_gw_buck 
+ *****yw******end simp_gw_buck 
+ Timing: GwBaseflow  accumulated time--   1.00000005E-03
+ finished call drive_CHANNEL
+ *****yw******end drive_CHANNEL 
+ Timing: Channel Routing  accumulated time--   1.34800005    
+ Beginning Aggregation...
+ Agg Mass Bal: 
+ WB_AGG!InfxsDiff   5.68544492E-05
+ WB_AGG!Infxs1   2.47619511E-03
+ WB_AGG!Infxs2   2.53304956E-03
+ WB_AGG!SMCDiff   4.24766541E-03
+ WB_AGG!SMC1   568.960327    
+ WB_AGG!SMC2   591.407715    
+ WB_AGG!SICE2   22.4431400    
+ WB_AGG!Residual   4.30451985E-03
+ Finished Aggregation...
+ current time is 2016-09-30_04:00:00
+ output hydrology at time : 2016-09-30_04:00:00
+ before call output_chrt
+ end calling output functions
+ accumulated time (s):    2.0000000000000000     
+ ***DATE=2016-09-30_04:00:00 299.18015   0.00000    Timing:   0.69 Cumulative:        2.68  SFLX:   0.01
+ read forcing data at 2016-09-30_04:00:00/mh1/kgavahi/WRF_Hydro4/FORCING/2016093005.LDASIN_DOMAIN1
+ Beginning Disaggregation...
+ Disagg Mass Bal: 
+ WB_DISAG!InfxsDiff   5.27249649E-05
+ WB_DISAG!Infxs1   2.19662557E-03
+ WB_DISAG!Infxs2   2.24935054E-03
+ WB_DISAG!SMCDIff  -4.02832031E-03
+ WB_DISAG!SMC1   591.416626    
+ WB_DISAG!SICE1   22.4431400    
+ WB_DISAG!SMC2   568.969482    
+ WB_DISAG!Residual  -3.97559535E-03
+ After Disaggregation...
+ Beginning SUB_routing...
+ Routing method is            1  direction.
+ calling subsurface routing subroutine...Opt.            1
+ call subsurface routing xx= , yy =         332          37
+ finish calling ROUTE_SUBSURFACE            1
+ SUBSFC Routing Mass Bal: 
+ WB_SUB!QsubDiff  -5.61454544E-05
+ WB_SUB!Qsub1   0.00000000    
+ WB_SUB!Qsub2  -5.61454544E-05
+ WB_SUB!InfxsDiff   1.91995176E-04
+ WB_SUB!Infxs1   2.29402306E-03
+ WB_SUB!Infxs2   2.48601823E-03
+ WB_SUB!QbdryDiff  -7.82461677E+18
+ WB_SUB!Qbdry1   7.82461677E+18
+ WB_SUB!Qbdry2  -3.80773534E-04
+ WB_SUB!SMCDiff  -3.66210938E-04
+ WB_SUB!SMC1   568.969238    
+ WB_SUB!SMC2   568.968872    
+ WB_SUB!Residual   1.74215762E-04
+ SUBROUTE routing called and returned...
+ Timing: Subsurface Routing  accumulated time--   1.40000004E-02
+ Beginning OV_routing...
+ Routing method is            1  direction.
+ calling OV_RTNG 
+ OV_RTNG  DT_FRAC, DT, DTRT_TER   360.000000       3600.00000       10.0000000    
+ IXRT, JXRT =           37         332
+ End of OV_routing call...
+ OV routing called and returned...
+ OV Routing Mass Bal: 
+ WB_OV!InfxsDiff  -2.60744710E-05
+ WB_OV!Infxs1   2.48601823E-03
+ WB_OV!Infxs2   2.45994376E-03
+ WB_OV!ChaninDiff   0.00000000    
+ WB_OV!Chanin1   0.00000000    
+ WB_OV!Chanin2   0.00000000    
+ WB_OV!LakeinDiff   7.62939453E-06
+ WB_OV!Lakein1   35.9138489    
+ WB_OV!Lakein2   35.9138565    
+ WB_OV!QbdryDiff   0.00000000    
+ WB_OV!Qbdry1  -192.553024    
+ WB_OV!Qbdry2  -192.553024    
+ WB_OV!Residual  -3.37038655E-05
+ Timing: Overland Routing  accumulated time--   1.21500015    
+ *****yw******start simp_gw_buck 
+ *****yw******end simp_gw_buck 
+ Timing: GwBaseflow  accumulated time--   2.00000009E-03
+ finished call drive_CHANNEL
+ *****yw******end drive_CHANNEL 
+ Timing: Channel Routing  accumulated time--   1.68400002    
+ Beginning Aggregation...
+ Agg Mass Bal: 
+ WB_AGG!InfxsDiff   4.97400761E-05
+ WB_AGG!Infxs1   2.45994376E-03
+ WB_AGG!Infxs2   2.50968384E-03
+ WB_AGG!SMCDiff   4.43077087E-03
+ WB_AGG!SMC1   568.968872    
+ WB_AGG!SMC2   591.416443    
+ WB_AGG!SICE2   22.4431400    
+ WB_AGG!Residual   4.48051095E-03
+ Finished Aggregation...
+ current time is 2016-09-30_05:00:00
+ output hydrology at time : 2016-09-30_05:00:00
+ before call output_chrt
+ end calling output functions
+ accumulated time (s):    4.0000000000000000     
+ ***DATE=2016-09-30_05:00:00 298.10287   0.00000    Timing:   0.89 Cumulative:        3.57  SFLX:   0.06
+ read forcing data at 2016-09-30_05:00:00/mh1/kgavahi/WRF_Hydro4/FORCING/2016093006.LDASIN_DOMAIN1
+ Beginning Disaggregation...
+ Disagg Mass Bal: 
+ WB_DISAG!InfxsDiff   8.70740041E-06
+ WB_DISAG!Infxs1   2.28697504E-03
+ WB_DISAG!Infxs2   2.29568244E-03
+ WB_DISAG!SMCDIff  -5.18798828E-03
+ WB_DISAG!SMC1   591.427124    
+ WB_DISAG!SICE1   22.4431400    
+ WB_DISAG!SMC2   568.978821    
+ WB_DISAG!Residual  -5.17928088E-03
+ After Disaggregation...
+ Beginning SUB_routing...
+ Routing method is            1  direction.
+ calling subsurface routing subroutine...Opt.            1
+ call subsurface routing xx= , yy =         332          37
+ finish calling ROUTE_SUBSURFACE            1
+ SUBSFC Routing Mass Bal: 
+ WB_SUB!QsubDiff  -5.55766128E-05
+ WB_SUB!Qsub1   0.00000000    
+ WB_SUB!Qsub2  -5.55766128E-05
+ WB_SUB!InfxsDiff   1.62059907E-04
+ WB_SUB!Infxs1   2.35365587E-03
+ WB_SUB!Infxs2   2.51571578E-03
+ WB_SUB!QbdryDiff  -9.81719408E+18
+ WB_SUB!Qbdry1   9.81719408E+18
+ WB_SUB!Qbdry2  -4.51773813E-04
+ WB_SUB!SMCDiff  -3.05175781E-04
+ WB_SUB!SMC1   568.978821    
+ WB_SUB!SMC2   568.978516    
+ WB_SUB!Residual   1.43115874E-04
+ SUBROUTE routing called and returned...
+ Timing: Subsurface Routing  accumulated time--   1.70000009E-02
+ Beginning OV_routing...
+ Routing method is            1  direction.
+ calling OV_RTNG 
+ OV_RTNG  DT_FRAC, DT, DTRT_TER   360.000000       3600.00000       10.0000000    
+ IXRT, JXRT =           37         332
+ End of OV_routing call...
+ OV routing called and returned...
+ OV Routing Mass Bal: 
+ WB_OV!InfxsDiff  -2.51743477E-05
+ WB_OV!Infxs1   2.51571578E-03
+ WB_OV!Infxs2   2.49054143E-03
+ WB_OV!ChaninDiff   0.00000000    
+ WB_OV!Chanin1   0.00000000    
+ WB_OV!Chanin2   0.00000000    
+ WB_OV!LakeinDiff   1.14440918E-05
+ WB_OV!Lakein1   35.9138565    
+ WB_OV!Lakein2   35.9138680    
+ WB_OV!QbdryDiff   0.00000000    
+ WB_OV!Qbdry1  -192.553024    
+ WB_OV!Qbdry2  -192.553024    
+ WB_OV!Residual  -3.66184395E-05
+ Timing: Overland Routing  accumulated time--   1.49900019    
+ *****yw******start simp_gw_buck 
+ *****yw******end simp_gw_buck 
+ Timing: GwBaseflow  accumulated time--   2.00000009E-03
+ finished call drive_CHANNEL
+ *****yw******end drive_CHANNEL 
+ Timing: Channel Routing  accumulated time--   2.02300000    
+ Beginning Aggregation...
+ Agg Mass Bal: 
+ WB_AGG!InfxsDiff   4.29630745E-05
+ WB_AGG!Infxs1   2.49054143E-03
+ WB_AGG!Infxs2   2.53350451E-03
+ WB_AGG!SMCDiff   5.10215759E-03
+ WB_AGG!SMC1   568.978516    
+ WB_AGG!SMC2   591.426758    
+ WB_AGG!SICE2   22.4431400    
+ WB_AGG!Residual   5.14512043E-03
+ Finished Aggregation...
+ current time is 2016-09-30_06:00:00
+ output hydrology at time : 2016-09-30_06:00:00
+ before call output_chrt
+ end calling output functions
+ accumulated time (s):    4.0000000000000000     
+ ***DATE=2016-09-30_06:00:00 297.13809   0.00000    Timing:   0.65 Cumulative:        4.22  SFLX:   0.01
+ read forcing data at 2016-09-30_06:00:00/mh1/kgavahi/WRF_Hydro4/FORCING/2016093007.LDASIN_DOMAIN1
+ Beginning Disaggregation...
+ Disagg Mass Bal: 
+ WB_DISAG!InfxsDiff  -2.77950894E-05
+ WB_DISAG!Infxs1   2.37972289E-03
+ WB_DISAG!Infxs2   2.35192780E-03
+ WB_DISAG!SMCDIff  -4.51660156E-03
+ WB_DISAG!SMC1   591.437683    
+ WB_DISAG!SICE1   22.4431400    
+ WB_DISAG!SMC2   568.990051    
+ WB_DISAG!Residual  -4.54439688E-03
+ After Disaggregation...
+ Beginning SUB_routing...
+ Routing method is            1  direction.
+ calling subsurface routing subroutine...Opt.            1
+ call subsurface routing xx= , yy =         332          37
+ finish calling ROUTE_SUBSURFACE            1
+ SUBSFC Routing Mass Bal: 
+ WB_SUB!QsubDiff  -5.46058618E-05
+ WB_SUB!Qsub1   0.00000000    
+ WB_SUB!Qsub2  -5.46058618E-05
+ WB_SUB!InfxsDiff   1.44843711E-04
+ WB_SUB!Infxs1   2.42211926E-03
+ WB_SUB!Infxs2   2.56696297E-03
+ WB_SUB!QbdryDiff  -1.18131024E+19
+ WB_SUB!Qbdry1   1.18131024E+19
+ WB_SUB!Qbdry2  -5.20555885E-04
+ WB_SUB!SMCDiff  -3.05175781E-04
+ WB_SUB!SMC1   568.989868    
+ WB_SUB!SMC2   568.989563    
+ WB_SUB!Residual   1.60332071E-04
+ SUBROUTE routing called and returned...
+ Timing: Subsurface Routing  accumulated time--   1.90000013E-02
+ Beginning OV_routing...
+ Routing method is            1  direction.
+ calling OV_RTNG 
+ OV_RTNG  DT_FRAC, DT, DTRT_TER   360.000000       3600.00000       10.0000000    
+ IXRT, JXRT =           37         332
+ End of OV_routing call...
+ OV routing called and returned...
+ OV Routing Mass Bal: 
+ WB_OV!InfxsDiff  -2.38537323E-05
+ WB_OV!Infxs1   2.56696297E-03
+ WB_OV!Infxs2   2.54310924E-03
+ WB_OV!ChaninDiff   0.00000000    
+ WB_OV!Chanin1   0.00000000    
+ WB_OV!Chanin2   0.00000000    
+ WB_OV!LakeinDiff   7.62939453E-06
+ WB_OV!Lakein1   35.9138680    
+ WB_OV!Lakein2   35.9138756    
+ WB_OV!QbdryDiff   0.00000000    
+ WB_OV!Qbdry1  -192.553024    
+ WB_OV!Qbdry2  -192.553024    
+ WB_OV!Residual  -3.14831268E-05
+ Timing: Overland Routing  accumulated time--   1.79100013    
+ *****yw******start simp_gw_buck 
+ *****yw******end simp_gw_buck 
+ Timing: GwBaseflow  accumulated time--   3.00000003E-03
+ finished call drive_CHANNEL
+ *****yw******end drive_CHANNEL 
+ Timing: Channel Routing  accumulated time--   2.36400008    
+ Beginning Aggregation...
+ Agg Mass Bal: 
+ WB_AGG!InfxsDiff   3.72375362E-05
+ WB_AGG!Infxs1   2.54310924E-03
+ WB_AGG!Infxs2   2.58034677E-03
+ WB_AGG!SMCDiff   4.67491150E-03
+ WB_AGG!SMC1   568.989563    
+ WB_AGG!SMC2   591.437378    
+ WB_AGG!SICE2   22.4431400    
+ WB_AGG!Residual   4.71214904E-03
+ Finished Aggregation...
+ current time is 2016-09-30_07:00:00
+ output hydrology at time : 2016-09-30_07:00:00
+ before call output_chrt
+ end calling output functions
+ accumulated time (s):    6.0000000000000000     
+ ***DATE=2016-09-30_07:00:00 296.34091   0.00000    Timing:   0.67 Cumulative:        4.89  SFLX:   0.01
+ read forcing data at 2016-09-30_07:00:00/mh1/kgavahi/WRF_Hydro4/FORCING/2016093008.LDASIN_DOMAIN1
+ Beginning Disaggregation...
+ Disagg Mass Bal: 
+ WB_DISAG!InfxsDiff  -5.88914845E-05
+ WB_DISAG!Infxs1   2.46420875E-03
+ WB_DISAG!Infxs2   2.40531727E-03
+ WB_DISAG!SMCDIff  -5.67626953E-03
+ WB_DISAG!SMC1   591.448914    
+ WB_DISAG!SICE1   22.4431400    
+ WB_DISAG!SMC2   569.000122    
+ WB_DISAG!Residual  -5.73516078E-03
+ After Disaggregation...
+ Beginning SUB_routing...
+ Routing method is            1  direction.
+ calling subsurface routing subroutine...Opt.            1
+ call subsurface routing xx= , yy =         332          37
+ finish calling ROUTE_SUBSURFACE            1
+ SUBSFC Routing Mass Bal: 
+ WB_SUB!QsubDiff  -5.19779533E-05
+ WB_SUB!Qsub1   0.00000000    
+ WB_SUB!Qsub2  -5.19779533E-05
+ WB_SUB!InfxsDiff   1.25116669E-04
+ WB_SUB!Infxs1   2.48624594E-03
+ WB_SUB!Infxs2   2.61136261E-03
+ WB_SUB!QbdryDiff  -1.38150348E+19
+ WB_SUB!Qbdry1   1.38150348E+19
+ WB_SUB!Qbdry2  -5.88679279E-04
+ WB_SUB!SMCDiff  -1.22070312E-04
+ WB_SUB!SMC1   569.000305    
+ WB_SUB!SMC2   569.000183    
+ WB_SUB!Residual  -3.04635614E-06
+ SUBROUTE routing called and returned...
+ Timing: Subsurface Routing  accumulated time--   2.20000017E-02
+ Beginning OV_routing...
+ Routing method is            1  direction.
+ calling OV_RTNG 
+ OV_RTNG  DT_FRAC, DT, DTRT_TER   360.000000       3600.00000       10.0000000    
+ IXRT, JXRT =           37         332
+ End of OV_routing call...
+ OV routing called and returned...
+ OV Routing Mass Bal: 
+ WB_OV!InfxsDiff  -2.25882977E-05
+ WB_OV!Infxs1   2.61136261E-03
+ WB_OV!Infxs2   2.58877431E-03
+ WB_OV!ChaninDiff   0.00000000    
+ WB_OV!Chanin1   0.00000000    
+ WB_OV!Chanin2   0.00000000    
+ WB_OV!LakeinDiff   7.62939453E-06
+ WB_OV!Lakein1   35.9138756    
+ WB_OV!Lakein2   35.9138832    
+ WB_OV!QbdryDiff   0.00000000    
+ WB_OV!Qbdry1  -192.553024    
+ WB_OV!Qbdry2  -192.553024    
+ WB_OV!Residual  -3.02176923E-05
+ Timing: Overland Routing  accumulated time--   2.07300019    
+ *****yw******start simp_gw_buck 
+ *****yw******end simp_gw_buck 
+ Timing: GwBaseflow  accumulated time--   3.00000003E-03
+ finished call drive_CHANNEL
+ *****yw******end drive_CHANNEL 
+ Timing: Channel Routing  accumulated time--   2.68800020    
+ Beginning Aggregation...
+ Agg Mass Bal: 
+ WB_AGG!InfxsDiff   3.20994295E-05
+ WB_AGG!Infxs1   2.58877431E-03
+ WB_AGG!Infxs2   2.62087374E-03
+ WB_AGG!SMCDiff   5.34629822E-03
+ WB_AGG!SMC1   569.000183    
+ WB_AGG!SMC2   591.448669    
+ WB_AGG!SICE2   22.4431400    
+ WB_AGG!Residual   5.37839765E-03
+ Finished Aggregation...
+ current time is 2016-09-30_08:00:00
+ output hydrology at time : 2016-09-30_08:00:00
+ before call output_chrt
+ end calling output functions
+ accumulated time (s):    6.0000000000000000     
+ ***DATE=2016-09-30_08:00:00 295.65616   0.00000    Timing:   0.65 Cumulative:        5.53  SFLX:   0.01
+ read forcing data at 2016-09-30_08:00:00/mh1/kgavahi/WRF_Hydro4/FORCING/2016093009.LDASIN_DOMAIN1
+ Beginning Disaggregation...
+ Disagg Mass Bal: 
+ WB_DISAG!InfxsDiff  -8.50157812E-05
+ WB_DISAG!Infxs1   2.54742638E-03
+ WB_DISAG!Infxs2   2.46241060E-03
+ WB_DISAG!SMCDIff  -5.37109375E-03
+ WB_DISAG!SMC1   591.460266    
+ WB_DISAG!SICE1   22.4431400    
+ WB_DISAG!SMC2   569.011780    
+ WB_DISAG!Residual  -5.45610953E-03
+ After Disaggregation...
+ Beginning SUB_routing...
+ Routing method is            1  direction.
+ calling subsurface routing subroutine...Opt.            1
+ call subsurface routing xx= , yy =         332          37
+ finish calling ROUTE_SUBSURFACE            1
+ SUBSFC Routing Mass Bal: 
+ WB_SUB!QsubDiff  -4.68987055E-05
+ WB_SUB!Qsub1   0.00000000    
+ WB_SUB!Qsub2  -4.68987055E-05
+ WB_SUB!InfxsDiff   1.27909007E-04
+ WB_SUB!Infxs1   2.55322969E-03
+ WB_SUB!Infxs2   2.68113869E-03
+ WB_SUB!QbdryDiff  -1.58267805E+19
+ WB_SUB!Qbdry1   1.58267805E+19
+ WB_SUB!Qbdry2  -6.56818622E-04
+ WB_SUB!SMCDiff  -1.22070312E-04
+ WB_SUB!SMC1   569.011902    
+ WB_SUB!SMC2   569.011780    
+ WB_SUB!Residual  -5.83869405E-06
+ SUBROUTE routing called and returned...
+ Timing: Subsurface Routing  accumulated time--   2.50000022E-02
+ Beginning OV_routing...
+ Routing method is            1  direction.
+ calling OV_RTNG 
+ OV_RTNG  DT_FRAC, DT, DTRT_TER   360.000000       3600.00000       10.0000000    
+ IXRT, JXRT =           37         332
+ End of OV_routing call...
+ OV routing called and returned...
+ OV Routing Mass Bal: 
+ WB_OV!InfxsDiff  -2.12963205E-05
+ WB_OV!Infxs1   2.68113869E-03
+ WB_OV!Infxs2   2.65984237E-03
+ WB_OV!ChaninDiff   0.00000000    
+ WB_OV!Chanin1   0.00000000    
+ WB_OV!Chanin2   0.00000000    
+ WB_OV!LakeinDiff   3.81469727E-06
+ WB_OV!Lakein1   35.9138832    
+ WB_OV!Lakein2   35.9138870    
+ WB_OV!QbdryDiff   0.00000000    
+ WB_OV!Qbdry1  -192.553024    
+ WB_OV!Qbdry2  -192.553024    
+ WB_OV!Residual  -2.51110177E-05
+ Timing: Overland Routing  accumulated time--   2.35800028    
+ *****yw******start simp_gw_buck 
+ *****yw******end simp_gw_buck 
+ Timing: GwBaseflow  accumulated time--   4.00000019E-03
+ finished call drive_CHANNEL
+ *****yw******end drive_CHANNEL 
+ Timing: Channel Routing  accumulated time--   3.03800011    
+ Beginning Aggregation...
+ Agg Mass Bal: 
+ WB_AGG!InfxsDiff   2.80798413E-05
+ WB_AGG!Infxs1   2.65984237E-03
+ WB_AGG!Infxs2   2.68792221E-03
+ WB_AGG!SMCDiff   5.10215759E-03
+ WB_AGG!SMC1   569.011780    
+ WB_AGG!SMC2   591.460022    
+ WB_AGG!SICE2   22.4431400    
+ WB_AGG!Residual   5.13023743E-03
+ Finished Aggregation...
+ current time is 2016-09-30_09:00:00
+ output hydrology at time : 2016-09-30_09:00:00
+ before call output_chrt
+ end calling output functions
+ accumulated time (s):    6.0000000000000000     
+ ***DATE=2016-09-30_09:00:00 294.98798   0.00000    Timing:   0.67 Cumulative:        6.20  SFLX:   0.01
+ read forcing data at 2016-09-30_09:00:00/mh1/kgavahi/WRF_Hydro4/FORCING/2016093010.LDASIN_DOMAIN1
+ Beginning Disaggregation...
+ Disagg Mass Bal: 
+ WB_DISAG!InfxsDiff  -9.64391511E-05
+ WB_DISAG!Infxs1   2.64591770E-03
+ WB_DISAG!Infxs2   2.54947855E-03
+ WB_DISAG!SMCDIff  -6.04248047E-03
+ WB_DISAG!SMC1   591.472107    
+ WB_DISAG!SICE1   22.4431400    
+ WB_DISAG!SMC2   569.022949    
+ WB_DISAG!Residual  -6.13891985E-03
+ After Disaggregation...
+ Beginning SUB_routing...
+ Routing method is            1  direction.
+ calling subsurface routing subroutine...Opt.            1
+ call subsurface routing xx= , yy =         332          37
+ finish calling ROUTE_SUBSURFACE            1
+ SUBSFC Routing Mass Bal: 
+ WB_SUB!QsubDiff  -5.44690665E-05
+ WB_SUB!Qsub1   0.00000000    
+ WB_SUB!Qsub2  -5.44690665E-05
+ WB_SUB!InfxsDiff   1.86908059E-04
+ WB_SUB!Infxs1   2.65015312E-03
+ WB_SUB!Infxs2   2.83706118E-03
+ WB_SUB!QbdryDiff  -1.78566670E+19
+ WB_SUB!Qbdry1   1.78566670E+19
+ WB_SUB!Qbdry2  -7.25865248E-04
+ WB_SUB!SMCDiff  -4.27246094E-04
+ WB_SUB!SMC1   569.023010    
+ WB_SUB!SMC2   569.022583    
+ WB_SUB!Residual   2.40338035E-04
+ SUBROUTE routing called and returned...
+ Timing: Subsurface Routing  accumulated time--   2.70000026E-02
+ Beginning OV_routing...
+ Routing method is            1  direction.
+ calling OV_RTNG 
+ OV_RTNG  DT_FRAC, DT, DTRT_TER   360.000000       3600.00000       10.0000000    
+ IXRT, JXRT =           37         332
+ End of OV_routing call...
+ OV routing called and returned...
+ OV Routing Mass Bal: 
+ WB_OV!InfxsDiff  -2.08434649E-05
+ WB_OV!Infxs1   2.83706118E-03
+ WB_OV!Infxs2   2.81621772E-03
+ WB_OV!ChaninDiff   0.00000000    
+ WB_OV!Chanin1   0.00000000    
+ WB_OV!Chanin2   0.00000000    
+ WB_OV!LakeinDiff   1.14440918E-05
+ WB_OV!Lakein1   35.9138870    
+ WB_OV!Lakein2   35.9138985    
+ WB_OV!QbdryDiff  -3.05175781E-05
+ WB_OV!Qbdry1  -192.553024    
+ WB_OV!Qbdry2  -192.553055    
+ WB_OV!Residual  -1.76997855E-06
+ Timing: Overland Routing  accumulated time--   2.65700030    
+ *****yw******start simp_gw_buck 
+ *****yw******end simp_gw_buck 
+ Timing: GwBaseflow  accumulated time--   5.00000035E-03
+ finished call drive_CHANNEL
+ *****yw******end drive_CHANNEL 
+ Timing: Channel Routing  accumulated time--   3.38800001    
+ Beginning Aggregation...
+ Agg Mass Bal: 
+ WB_AGG!InfxsDiff   2.80356035E-05
+ WB_AGG!Infxs1   2.81621772E-03
+ WB_AGG!Infxs2   2.84425332E-03
+ WB_AGG!SMCDiff   6.07872009E-03
+ WB_AGG!SMC1   569.022583    
+ WB_AGG!SMC2   591.471802    
+ WB_AGG!SICE2   22.4431400    
+ WB_AGG!Residual   6.10675570E-03
+ Finished Aggregation...
+ current time is 2016-09-30_10:00:00
+ output hydrology at time : 2016-09-30_10:00:00
+ before call output_chrt
+ end calling output functions
+ accumulated time (s):    6.0000000000000000     
+ ***DATE=2016-09-30_10:00:00 294.40680   0.00000    Timing:   0.68 Cumulative:        6.88  SFLX:   0.01
+ read forcing data at 2016-09-30_10:00:00/mh1/kgavahi/WRF_Hydro4/FORCING/2016093011.LDASIN_DOMAIN1
+ Beginning Disaggregation...
+ Disagg Mass Bal: 
+ WB_DISAG!InfxsDiff  -9.46968794E-05
+ WB_DISAG!Infxs1   2.75540026E-03
+ WB_DISAG!Infxs2   2.66070338E-03
+ WB_DISAG!SMCDIff  -6.34765625E-03
+ WB_DISAG!SMC1   591.484497    
+ WB_DISAG!SICE1   22.4431400    
+ WB_DISAG!SMC2   569.035034    
+ WB_DISAG!Residual  -6.44235313E-03
+ After Disaggregation...
+ Beginning SUB_routing...
+ Routing method is            1  direction.
+ calling subsurface routing subroutine...Opt.            1
+ call subsurface routing xx= , yy =         332          37
+ finish calling ROUTE_SUBSURFACE            1
+ SUBSFC Routing Mass Bal: 
+ WB_SUB!QsubDiff  -6.18171616E-05
+ WB_SUB!Qsub1   0.00000000    
+ WB_SUB!Qsub2  -6.18171616E-05
+ WB_SUB!InfxsDiff   1.74159417E-04
+ WB_SUB!Infxs1   2.77106836E-03
+ WB_SUB!Infxs2   2.94522778E-03
+ WB_SUB!QbdryDiff  -1.98989790E+19
+ WB_SUB!Qbdry1   1.98989790E+19
+ WB_SUB!Qbdry2  -7.95835280E-04
+ WB_SUB!SMCDiff  -1.22070312E-04
+ WB_SUB!SMC1   569.035095    
+ WB_SUB!SMC2   569.034973    
+ WB_SUB!Residual  -5.20891044E-05
+ SUBROUTE routing called and returned...
+ Timing: Subsurface Routing  accumulated time--   2.90000029E-02
+ Beginning OV_routing...
+ Routing method is            1  direction.
+ calling OV_RTNG 
+ OV_RTNG  DT_FRAC, DT, DTRT_TER   360.000000       3600.00000       10.0000000    
+ IXRT, JXRT =           37         332
+ End of OV_routing call...
+ OV routing called and returned...
+ OV Routing Mass Bal: 
+ WB_OV!InfxsDiff  -2.06455588E-05
+ WB_OV!Infxs1   2.94522778E-03
+ WB_OV!Infxs2   2.92458222E-03
+ WB_OV!ChaninDiff   0.00000000    
+ WB_OV!Chanin1   0.00000000    
+ WB_OV!Chanin2   0.00000000    
+ WB_OV!LakeinDiff   7.62939453E-06
+ WB_OV!Lakein1   35.9138985    
+ WB_OV!Lakein2   35.9139061    
+ WB_OV!QbdryDiff   0.00000000    
+ WB_OV!Qbdry1  -192.553055    
+ WB_OV!Qbdry2  -192.553055    
+ WB_OV!Residual  -2.82749534E-05
+ Timing: Overland Routing  accumulated time--   2.96300030    
+ *****yw******start simp_gw_buck 
+ *****yw******end simp_gw_buck 
+ Timing: GwBaseflow  accumulated time--   5.00000035E-03
+ finished call drive_CHANNEL
+ *****yw******end drive_CHANNEL 
+ Timing: Channel Routing  accumulated time--   3.73900008    
+ Beginning Aggregation...
+ Agg Mass Bal: 
+ WB_AGG!InfxsDiff   2.53273174E-05
+ WB_AGG!Infxs1   2.92458222E-03
+ WB_AGG!Infxs2   2.94990954E-03
+ WB_AGG!SMCDiff   5.89561462E-03
+ WB_AGG!SMC1   569.034973    
+ WB_AGG!SMC2   591.484009    
+ WB_AGG!SICE2   22.4431400    
+ WB_AGG!Residual   5.92094194E-03
+ Finished Aggregation...
+ current time is 2016-09-30_11:00:00
+ output hydrology at time : 2016-09-30_11:00:00
+ before call output_chrt
+ end calling output functions
+ accumulated time (s):    8.0000000000000000     
+ ***DATE=2016-09-30_11:00:00 293.88098   0.00000    Timing:   0.69 Cumulative:        7.57  SFLX:   0.01
+ read forcing data at 2016-09-30_11:00:00/mh1/kgavahi/WRF_Hydro4/FORCING/2016093012.LDASIN_DOMAIN1
+ Beginning Disaggregation...
+ Disagg Mass Bal: 
+ WB_DISAG!InfxsDiff  -8.79443251E-05
+ WB_DISAG!Infxs1   2.86102598E-03
+ WB_DISAG!Infxs2   2.77308165E-03
+ WB_DISAG!SMCDIff  -6.65283203E-03
+ WB_DISAG!SMC1   591.496765    
+ WB_DISAG!SICE1   22.4432468    
+ WB_DISAG!SMC2   569.046875    
+ WB_DISAG!Residual  -6.74077636E-03
+ After Disaggregation...
+ Beginning SUB_routing...
+ Routing method is            1  direction.
+ calling subsurface routing subroutine...Opt.            1
+ call subsurface routing xx= , yy =         332          37
+ finish calling ROUTE_SUBSURFACE            1
+ SUBSFC Routing Mass Bal: 
+ WB_SUB!QsubDiff  -6.93025067E-05
+ WB_SUB!Qsub1   0.00000000    
+ WB_SUB!Qsub2  -6.93025067E-05
+ WB_SUB!InfxsDiff   1.70999905E-04
+ WB_SUB!Infxs1   2.89224973E-03
+ WB_SUB!Infxs2   3.06324963E-03
+ WB_SUB!QbdryDiff  -2.19536474E+19
+ WB_SUB!Qbdry1   2.19536474E+19
+ WB_SUB!Qbdry2  -8.66756251E-04
+ WB_SUB!SMCDiff  -3.66210938E-04
+ WB_SUB!SMC1   569.046814    
+ WB_SUB!SMC2   569.046448    
+ WB_SUB!Residual   1.95211032E-04
+ SUBROUTE routing called and returned...
+ Timing: Subsurface Routing  accumulated time--   3.20000015E-02
+ Beginning OV_routing...
+ Routing method is            1  direction.
+ calling OV_RTNG 
+ OV_RTNG  DT_FRAC, DT, DTRT_TER   360.000000       3600.00000       10.0000000    
+ IXRT, JXRT =           37         332
+ End of OV_routing call...
+ OV routing called and returned...
+ OV Routing Mass Bal: 
+ WB_OV!InfxsDiff  -2.06739642E-05
+ WB_OV!Infxs1   3.06324963E-03
+ WB_OV!Infxs2   3.04257567E-03
+ WB_OV!ChaninDiff   0.00000000    
+ WB_OV!Chanin1   0.00000000    
+ WB_OV!Chanin2   0.00000000    
+ WB_OV!LakeinDiff   3.81469727E-06
+ WB_OV!Lakein1   35.9139061    
+ WB_OV!Lakein2   35.9139099    
+ WB_OV!QbdryDiff   0.00000000    
+ WB_OV!Qbdry1  -192.553055    
+ WB_OV!Qbdry2  -192.553055    
+ WB_OV!Residual  -2.44886614E-05
+ Timing: Overland Routing  accumulated time--   3.26700020    
+ *****yw******start simp_gw_buck 
+ *****yw******end simp_gw_buck 
+ Timing: GwBaseflow  accumulated time--   6.00000052E-03
+ finished call drive_CHANNEL
+ *****yw******end drive_CHANNEL 
+ Timing: Channel Routing  accumulated time--   4.09700012    
+ Beginning Aggregation...
+ Agg Mass Bal: 
+ WB_AGG!InfxsDiff   2.34653708E-05
+ WB_AGG!Infxs1   3.04257567E-03
+ WB_AGG!Infxs2   3.06604104E-03
+ WB_AGG!SMCDiff   6.94847107E-03
+ WB_AGG!SMC1   569.046448    
+ WB_AGG!SMC2   591.496643    
+ WB_AGG!SICE2   22.4432468    
+ WB_AGG!Residual   6.97193667E-03
+ Finished Aggregation...
+ current time is 2016-09-30_12:00:00
+ output hydrology at time : 2016-09-30_12:00:00
+ before call output_chrt
+ end calling output functions
+ accumulated time (s):    8.0000000000000000     
+ ***DATE=2016-09-30_12:00:00 293.41156   0.00000    Timing:   0.71 Cumulative:        8.28  SFLX:   0.01
+ read forcing data at 2016-09-30_12:00:00/mh1/kgavahi/WRF_Hydro4/FORCING/2016093013.LDASIN_DOMAIN1
+ Beginning Disaggregation...
+ Disagg Mass Bal: 
+ WB_DISAG!InfxsDiff  -8.98598228E-05
+ WB_DISAG!Infxs1   3.02473642E-03
+ WB_DISAG!Infxs2   2.93487660E-03
+ WB_DISAG!SMCDIff  -6.83593750E-03
+ WB_DISAG!SMC1   591.513367    
+ WB_DISAG!SICE1   22.4436703    
+ WB_DISAG!SMC2   569.062866    
+ WB_DISAG!Residual  -6.92579709E-03
+ After Disaggregation...
+ Beginning SUB_routing...
+ Routing method is            1  direction.
+ calling subsurface routing subroutine...Opt.            1
+ call subsurface routing xx= , yy =         332          37
+ finish calling ROUTE_SUBSURFACE            1
+ SUBSFC Routing Mass Bal: 
+ WB_SUB!QsubDiff  -7.42881311E-05
+ WB_SUB!Qsub1   0.00000000    
+ WB_SUB!Qsub2  -7.42881311E-05
+ WB_SUB!InfxsDiff   1.62028940E-04
+ WB_SUB!Infxs1   3.06555303E-03
+ WB_SUB!Infxs2   3.22758197E-03
+ WB_SUB!QbdryDiff  -2.40217914E+19
+ WB_SUB!Qbdry1   2.40217914E+19
+ WB_SUB!Qbdry2  -9.38655518E-04
+ WB_SUB!SMCDiff  -2.44140625E-04
+ WB_SUB!SMC1   569.063171    
+ WB_SUB!SMC2   569.062927    
+ WB_SUB!Residual   8.21116846E-05
+ SUBROUTE routing called and returned...
+ Timing: Subsurface Routing  accumulated time--   3.50000001E-02
+ Beginning OV_routing...
+ Routing method is            1  direction.
+ calling OV_RTNG 
+ OV_RTNG  DT_FRAC, DT, DTRT_TER   360.000000       3600.00000       10.0000000    
+ IXRT, JXRT =           37         332
+ End of OV_routing call...
+ OV routing called and returned...
+ OV Routing Mass Bal: 
+ WB_OV!InfxsDiff  -1.65435486E-05
+ WB_OV!Infxs1   3.22758197E-03
+ WB_OV!Infxs2   3.21103842E-03
+ WB_OV!ChaninDiff   0.00000000    
+ WB_OV!Chanin1   0.00000000    
+ WB_OV!Chanin2   0.00000000    
+ WB_OV!LakeinDiff   3.81469727E-06
+ WB_OV!Lakein1   35.9139099    
+ WB_OV!Lakein2   35.9139137    
+ WB_OV!QbdryDiff   0.00000000    
+ WB_OV!Qbdry1  -192.553055    
+ WB_OV!Qbdry2  -192.553055    
+ WB_OV!Residual  -2.03582458E-05
+ Timing: Overland Routing  accumulated time--   3.61100030    
+ *****yw******start simp_gw_buck 
+ *****yw******end simp_gw_buck 
+ Timing: GwBaseflow  accumulated time--   6.00000052E-03
+ finished call drive_CHANNEL
+ *****yw******end drive_CHANNEL 
+ Timing: Channel Routing  accumulated time--   4.43599987    
+ Beginning Aggregation...
+ Agg Mass Bal: 
+ WB_AGG!InfxsDiff   2.08762940E-05
+ WB_AGG!Infxs1   3.21103842E-03
+ WB_AGG!Infxs2   3.23191471E-03
+ WB_AGG!SMCDiff   6.40296936E-03
+ WB_AGG!SMC1   569.062927    
+ WB_AGG!SMC2   591.513000    
+ WB_AGG!SICE2   22.4436703    
+ WB_AGG!Residual   6.42384589E-03
+ Finished Aggregation...
+ current time is 2016-09-30_13:00:00
+ output hydrology at time : 2016-09-30_13:00:00
+ before call output_chrt
+ end calling output functions
+ accumulated time (s):    10.000000000000000     
+ ***DATE=2016-09-30_13:00:00 293.27484   0.00000    Timing:   0.72 Cumulative:        9.00  SFLX:   0.01
+ read forcing data at 2016-09-30_13:00:00/mh1/kgavahi/WRF_Hydro4/FORCING/2016093014.LDASIN_DOMAIN1
+ Beginning Disaggregation...
+ Disagg Mass Bal: 
+ WB_DISAG!InfxsDiff  -7.37854280E-05
+ WB_DISAG!Infxs1   2.79051857E-03
+ WB_DISAG!Infxs2   2.71673314E-03
+ WB_DISAG!SMCDIff  -5.43212891E-03
+ WB_DISAG!SMC1   591.493591    
+ WB_DISAG!SICE1   22.4436703    
+ WB_DISAG!SMC2   569.044495    
+ WB_DISAG!Residual  -5.50591433E-03
+ After Disaggregation...
+ Beginning SUB_routing...
+ Routing method is            1  direction.
+ calling subsurface routing subroutine...Opt.            1
+ call subsurface routing xx= , yy =         332          37
+ finish calling ROUTE_SUBSURFACE            1
+ SUBSFC Routing Mass Bal: 
+ WB_SUB!QsubDiff  -7.09467349E-05
+ WB_SUB!Qsub1   0.00000000    
+ WB_SUB!Qsub2  -7.09467349E-05
+ WB_SUB!InfxsDiff   1.28609594E-04
+ WB_SUB!Infxs1   2.83595151E-03
+ WB_SUB!Infxs2   2.96456111E-03
+ WB_SUB!QbdryDiff  -2.61046446E+19
+ WB_SUB!Qbdry1   2.61046446E+19
+ WB_SUB!Qbdry2  -1.01128663E-03
+ WB_SUB!SMCDiff  -1.83105469E-04
+ WB_SUB!SMC1   569.043091    
+ WB_SUB!SMC2   569.042908    
+ WB_SUB!Residual   5.44958748E-05
+ SUBROUTE routing called and returned...
+ Timing: Subsurface Routing  accumulated time--   3.79999988E-02
+ Beginning OV_routing...
+ Routing method is            1  direction.
+ calling OV_RTNG 
+ OV_RTNG  DT_FRAC, DT, DTRT_TER   360.000000       3600.00000       10.0000000    
+ IXRT, JXRT =           37         332
+ End of OV_routing call...
+ OV routing called and returned...
+ OV Routing Mass Bal: 
+ WB_OV!InfxsDiff  -2.63692345E-05
+ WB_OV!Infxs1   2.96456111E-03
+ WB_OV!Infxs2   2.93819187E-03
+ WB_OV!ChaninDiff   0.00000000    
+ WB_OV!Chanin1   0.00000000    
+ WB_OV!Chanin2   0.00000000    
+ WB_OV!LakeinDiff   1.14440918E-05
+ WB_OV!Lakein1   35.9139137    
+ WB_OV!Lakein2   35.9139252    
+ WB_OV!QbdryDiff   0.00000000    
+ WB_OV!Qbdry1  -192.553055    
+ WB_OV!Qbdry2  -192.553055    
+ WB_OV!Residual  -3.78133263E-05
+ Timing: Overland Routing  accumulated time--   3.88500023    
+ *****yw******start simp_gw_buck 
+ *****yw******end simp_gw_buck 
+ Timing: GwBaseflow  accumulated time--   6.00000052E-03
+ finished call drive_CHANNEL
+ *****yw******end drive_CHANNEL 
+ Timing: Channel Routing  accumulated time--   4.77799988    
+ Beginning Aggregation...
+ Agg Mass Bal: 
+ WB_AGG!InfxsDiff   1.91095751E-05
+ WB_AGG!Infxs1   2.93819187E-03
+ WB_AGG!Infxs2   2.95730145E-03
+ WB_AGG!SMCDiff   6.70814514E-03
+ WB_AGG!SMC1   569.042908    
+ WB_AGG!SMC2   591.493286    
+ WB_AGG!SICE2   22.4436703    
+ WB_AGG!Residual   6.72725495E-03
+ Finished Aggregation...
+ current time is 2016-09-30_14:00:00
+ output hydrology at time : 2016-09-30_14:00:00
+ before call output_chrt
+ end calling output functions
+ accumulated time (s):    10.000000000000000     
+ ***DATE=2016-09-30_14:00:00 295.70447   0.00000    Timing:   0.65 Cumulative:        9.65  SFLX:   0.01
+ read forcing data at 2016-09-30_14:00:00/mh1/kgavahi/WRF_Hydro4/FORCING/2016093015.LDASIN_DOMAIN1
+ Beginning Disaggregation...
+ Disagg Mass Bal: 
+ WB_DISAG!InfxsDiff  -6.99572265E-05
+ WB_DISAG!Infxs1   2.59673805E-03
+ WB_DISAG!Infxs2   2.52678082E-03
+ WB_DISAG!SMCDIff  -3.29589844E-03
+ WB_DISAG!SMC1   591.416016    
+ WB_DISAG!SICE1   22.4436607    
+ WB_DISAG!SMC2   568.969055    
+ WB_DISAG!Residual  -3.36585566E-03
+ After Disaggregation...
+ Beginning SUB_routing...
+ Routing method is            1  direction.
+ calling subsurface routing subroutine...Opt.            1
+ call subsurface routing xx= , yy =         332          37
+ finish calling ROUTE_SUBSURFACE            1
+ SUBSFC Routing Mass Bal: 
+ WB_SUB!QsubDiff  -7.35920767E-05
+ WB_SUB!Qsub1   0.00000000    
+ WB_SUB!Qsub2  -7.35920767E-05
+ WB_SUB!InfxsDiff   1.27943698E-04
+ WB_SUB!Infxs1   2.63608363E-03
+ WB_SUB!Infxs2   2.76402733E-03
+ WB_SUB!QbdryDiff  -2.81898113E+19
+ WB_SUB!Qbdry1   2.81898113E+19
+ WB_SUB!Qbdry2  -1.08443701E-03
+ WB_SUB!SMCDiff  -2.44140625E-04
+ WB_SUB!SMC1   568.964966    
+ WB_SUB!SMC2   568.964722    
+ WB_SUB!Residual   1.16196927E-04
+ SUBROUTE routing called and returned...
+ Timing: Subsurface Routing  accumulated time--   4.09999974E-02
+ Beginning OV_routing...
+ Routing method is            1  direction.
+ calling OV_RTNG 
+ OV_RTNG  DT_FRAC, DT, DTRT_TER   360.000000       3600.00000       10.0000000    
+ IXRT, JXRT =           37         332
+ End of OV_routing call...
+ OV routing called and returned...
+ OV Routing Mass Bal: 
+ WB_OV!InfxsDiff  -3.13075725E-05
+ WB_OV!Infxs1   2.76402733E-03
+ WB_OV!Infxs2   2.73271976E-03
+ WB_OV!ChaninDiff   0.00000000    
+ WB_OV!Chanin1   0.00000000    
+ WB_OV!Chanin2   0.00000000    
+ WB_OV!LakeinDiff   1.90734863E-05
+ WB_OV!Lakein1   35.9139252    
+ WB_OV!Lakein2   35.9139442    
+ WB_OV!QbdryDiff   0.00000000    
+ WB_OV!Qbdry1  -192.553055    
+ WB_OV!Qbdry2  -192.553055    
+ WB_OV!Residual  -5.03810588E-05
+ Timing: Overland Routing  accumulated time--   4.16100025    
+ *****yw******start simp_gw_buck 
+ *****yw******end simp_gw_buck 
+ Timing: GwBaseflow  accumulated time--   6.00000052E-03
+ finished call drive_CHANNEL
+ *****yw******end drive_CHANNEL 
+ Timing: Channel Routing  accumulated time--   5.11999989    
+ Beginning Aggregation...
+ Agg Mass Bal: 
+ WB_AGG!InfxsDiff   1.88888516E-05
+ WB_AGG!Infxs1   2.73271976E-03
+ WB_AGG!Infxs2   2.75160861E-03
+ WB_AGG!SMCDiff   7.26699829E-03
+ WB_AGG!SMC1   568.964722    
+ WB_AGG!SMC2   591.415649    
+ WB_AGG!SICE2   22.4436607    
+ WB_AGG!Residual   7.28588738E-03
+ Finished Aggregation...
+ current time is 2016-09-30_15:00:00
+ output hydrology at time : 2016-09-30_15:00:00
+ before call output_chrt
+ end calling output functions
+ accumulated time (s):    10.000000000000000     
+ ***DATE=2016-09-30_15:00:00 299.24008   0.00000    Timing:   0.65 Cumulative:       10.30  SFLX:   0.01
+ read forcing data at 2016-09-30_15:00:00/mh1/kgavahi/WRF_Hydro4/FORCING/2016093016.LDASIN_DOMAIN1
+ Beginning Disaggregation...
+ Disagg Mass Bal: 
+ WB_DISAG!InfxsDiff  -5.83855435E-05
+ WB_DISAG!Infxs1   2.39117770E-03
+ WB_DISAG!Infxs2   2.33279215E-03
+ WB_DISAG!SMCDIff   0.00000000    
+ WB_DISAG!SMC1   591.267456    
+ WB_DISAG!SICE1   22.4432526    
+ WB_DISAG!SMC2   568.824219    
+ WB_DISAG!Residual  -5.83855435E-05
+ After Disaggregation...
+ Beginning SUB_routing...
+ Routing method is            1  direction.
+ calling subsurface routing subroutine...Opt.            1
+ call subsurface routing xx= , yy =         332          37
+ finish calling ROUTE_SUBSURFACE            1
+ SUBSFC Routing Mass Bal: 
+ WB_SUB!QsubDiff  -7.52733467E-05
+ WB_SUB!Qsub1   0.00000000    
+ WB_SUB!Qsub2  -7.52733467E-05
+ WB_SUB!InfxsDiff   1.17469579E-04
+ WB_SUB!Infxs1   2.43240991E-03
+ WB_SUB!Infxs2   2.54987949E-03
+ WB_SUB!QbdryDiff  -3.02640554E+19
+ WB_SUB!Qbdry1   3.02640554E+19
+ WB_SUB!Qbdry2  -1.15777925E-03
+ WB_SUB!SMCDiff  -1.83105469E-04
+ WB_SUB!SMC1   568.817139    
+ WB_SUB!SMC2   568.816956    
+ WB_SUB!Residual   6.56358898E-05
+ SUBROUTE routing called and returned...
+ Timing: Subsurface Routing  accumulated time--   4.39999960E-02
+ Beginning OV_routing...
+ Routing method is            1  direction.
+ calling OV_RTNG 
+ OV_RTNG  DT_FRAC, DT, DTRT_TER   360.000000       3600.00000       10.0000000    
+ IXRT, JXRT =           37         332
+ End of OV_routing call...
+ OV routing called and returned...
+ OV Routing Mass Bal: 
+ WB_OV!InfxsDiff  -3.36482190E-05
+ WB_OV!Infxs1   2.54987949E-03
+ WB_OV!Infxs2   2.51623127E-03
+ WB_OV!ChaninDiff   0.00000000    
+ WB_OV!Chanin1   0.00000000    
+ WB_OV!Chanin2   0.00000000    
+ WB_OV!LakeinDiff   1.52587891E-05
+ WB_OV!Lakein1   35.9139442    
+ WB_OV!Lakein2   35.9139595    
+ WB_OV!QbdryDiff   0.00000000    
+ WB_OV!Qbdry1  -192.553055    
+ WB_OV!Qbdry2  -192.553055    
+ WB_OV!Residual  -4.89070080E-05
+ Timing: Overland Routing  accumulated time--   4.42800045    
+ *****yw******start simp_gw_buck 
+ *****yw******end simp_gw_buck 
+ Timing: GwBaseflow  accumulated time--   7.00000068E-03
+ finished call drive_CHANNEL
+ *****yw******end drive_CHANNEL 
+ Timing: Channel Routing  accumulated time--   5.46099997    
+ Beginning Aggregation...
+ Agg Mass Bal: 
+ WB_AGG!InfxsDiff   1.83328521E-05
+ WB_AGG!Infxs1   2.51623127E-03
+ WB_AGG!Infxs2   2.53456412E-03
+ WB_AGG!SMCDiff   6.94274902E-03
+ WB_AGG!SMC1   568.816956    
+ WB_AGG!SMC2   591.267151    
+ WB_AGG!SICE2   22.4432526    
+ WB_AGG!Residual   6.96108211E-03
+ Finished Aggregation...
+ current time is 2016-09-30_16:00:00
+ output hydrology at time : 2016-09-30_16:00:00
+ before call output_chrt
+ end calling output functions
+ accumulated time (s):    10.000000000000000     
+ ***DATE=2016-09-30_16:00:00 302.89783   0.00000    Timing:   0.64 Cumulative:       10.94  SFLX:   0.01
+ read forcing data at 2016-09-30_16:00:00/mh1/kgavahi/WRF_Hydro4/FORCING/2016093017.LDASIN_DOMAIN1
+ Beginning Disaggregation...
+ Disagg Mass Bal: 
+ WB_DISAG!InfxsDiff  -5.05009666E-05
+ WB_DISAG!Infxs1   2.19635130E-03
+ WB_DISAG!Infxs2   2.14585033E-03
+ WB_DISAG!SMCDIff   3.54003906E-03
+ WB_DISAG!SMC1   591.056030    
+ WB_DISAG!SICE1   22.4431400    
+ WB_DISAG!SMC2   568.616455    
+ WB_DISAG!Residual   3.48953810E-03
+ After Disaggregation...
+ Beginning SUB_routing...
+ Routing method is            1  direction.
+ calling subsurface routing subroutine...Opt.            1
+ call subsurface routing xx= , yy =         332          37
+ finish calling ROUTE_SUBSURFACE            1
+ SUBSFC Routing Mass Bal: 
+ WB_SUB!QsubDiff  -7.66616213E-05
+ WB_SUB!Qsub1   0.00000000    
+ WB_SUB!Qsub2  -7.66616213E-05
+ WB_SUB!InfxsDiff   1.21123157E-04
+ WB_SUB!Infxs1   2.23712134E-03
+ WB_SUB!Infxs2   2.35824450E-03
+ WB_SUB!QbdryDiff  -3.23055296E+19
+ WB_SUB!Qbdry1   3.23055296E+19
+ WB_SUB!Qbdry2  -1.23103999E-03
+ WB_SUB!SMCDiff  -1.22070312E-04
+ WB_SUB!SMC1   568.606628    
+ WB_SUB!SMC2   568.606506    
+ WB_SUB!Residual   9.47155058E-07
+ SUBROUTE routing called and returned...
+ Timing: Subsurface Routing  accumulated time--   4.69999947E-02
+ Beginning OV_routing...
+ Routing method is            1  direction.
+ calling OV_RTNG 
+ OV_RTNG  DT_FRAC, DT, DTRT_TER   360.000000       3600.00000       10.0000000    
+ IXRT, JXRT =           37         332
+ End of OV_routing call...
+ OV routing called and returned...
+ OV Routing Mass Bal: 
+ WB_OV!InfxsDiff  -3.66270542E-05
+ WB_OV!Infxs1   2.35824450E-03
+ WB_OV!Infxs2   2.32161744E-03
+ WB_OV!ChaninDiff   0.00000000    
+ WB_OV!Chanin1   0.00000000    
+ WB_OV!Chanin2   0.00000000    
+ WB_OV!LakeinDiff   1.90734863E-05
+ WB_OV!Lakein1   35.9139595    
+ WB_OV!Lakein2   35.9139786    
+ WB_OV!QbdryDiff   0.00000000    
+ WB_OV!Qbdry1  -192.553055    
+ WB_OV!Qbdry2  -192.553055    
+ WB_OV!Residual  -5.57005405E-05
+ Timing: Overland Routing  accumulated time--   4.69300032    
+ *****yw******start simp_gw_buck 
+ *****yw******end simp_gw_buck 
+ Timing: GwBaseflow  accumulated time--   7.00000068E-03
+ finished call drive_CHANNEL
+ *****yw******end drive_CHANNEL 
+ Timing: Channel Routing  accumulated time--   5.83699989    
+ Beginning Aggregation...
+ Agg Mass Bal: 
+ WB_AGG!InfxsDiff   1.75070018E-05
+ WB_AGG!Infxs1   2.32161744E-03
+ WB_AGG!Infxs2   2.33912445E-03
+ WB_AGG!SMCDiff   6.13975525E-03
+ WB_AGG!SMC1   568.606506    
+ WB_AGG!SMC2   591.055786    
+ WB_AGG!SICE2   22.4431400    
+ WB_AGG!Residual   6.15726225E-03
+ Finished Aggregation...
+ current time is 2016-09-30_17:00:00
+ output hydrology at time : 2016-09-30_17:00:00
+ before call output_chrt
+ end calling output functions
+ accumulated time (s):    12.000000000000000     
+ ***DATE=2016-09-30_17:00:00 306.35089   0.00000    Timing:   0.68 Cumulative:       11.62  SFLX:   0.01
+ read forcing data at 2016-09-30_17:00:00/mh1/kgavahi/WRF_Hydro4/FORCING/2016093018.LDASIN_DOMAIN1
+ Beginning Disaggregation...
+ Disagg Mass Bal: 
+ WB_DISAG!InfxsDiff  -4.18187119E-05
+ WB_DISAG!Infxs1   2.01750197E-03
+ WB_DISAG!Infxs2   1.97568326E-03
+ WB_DISAG!SMCDIff   7.20214844E-03
+ WB_DISAG!SMC1   590.789490    
+ WB_DISAG!SICE1   22.4431400    
+ WB_DISAG!SMC2   568.353577    
+ WB_DISAG!Residual   7.16032973E-03
+ After Disaggregation...
+ Beginning SUB_routing...
+ Routing method is            1  direction.
+ calling subsurface routing subroutine...Opt.            1
+ call subsurface routing xx= , yy =         332          37
+ finish calling ROUTE_SUBSURFACE            1
+ SUBSFC Routing Mass Bal: 
+ WB_SUB!QsubDiff  -7.91092680E-05
+ WB_SUB!Qsub1   0.00000000    
+ WB_SUB!Qsub2  -7.91092680E-05
+ WB_SUB!InfxsDiff   1.72920292E-04
+ WB_SUB!Infxs1   2.06001918E-03
+ WB_SUB!Infxs2   2.23293947E-03
+ WB_SUB!QbdryDiff  -3.42962416E+19
+ WB_SUB!Qbdry1   3.42962416E+19
+ WB_SUB!Qbdry2  -1.30374159E-03
+ WB_SUB!SMCDiff  -2.44140625E-04
+ WB_SUB!SMC1   568.341736    
+ WB_SUB!SMC2   568.341492    
+ WB_SUB!Residual   7.12203328E-05
+ SUBROUTE routing called and returned...
+ Timing: Subsurface Routing  accumulated time--   4.99999933E-02
+ Beginning OV_routing...
+ Routing method is            1  direction.
+ calling OV_RTNG 
+ OV_RTNG  DT_FRAC, DT, DTRT_TER   360.000000       3600.00000       10.0000000    
+ IXRT, JXRT =           37         332
+ End of OV_routing call...
+ OV routing called and returned...
+ OV Routing Mass Bal: 
+ WB_OV!InfxsDiff  -3.98363918E-05
+ WB_OV!Infxs1   2.23293947E-03
+ WB_OV!Infxs2   2.19310308E-03
+ WB_OV!ChaninDiff   0.00000000    
+ WB_OV!Chanin1   0.00000000    
+ WB_OV!Chanin2   0.00000000    
+ WB_OV!LakeinDiff   2.28881836E-05
+ WB_OV!Lakein1   35.9139786    
+ WB_OV!Lakein2   35.9140015    
+ WB_OV!QbdryDiff   0.00000000    
+ WB_OV!Qbdry1  -192.553055    
+ WB_OV!Qbdry2  -192.553055    
+ WB_OV!Residual  -6.27245754E-05
+ Timing: Overland Routing  accumulated time--   4.94900036    
+ *****yw******start simp_gw_buck 
+ *****yw******end simp_gw_buck 
+ Timing: GwBaseflow  accumulated time--   7.00000068E-03
+ finished call drive_CHANNEL
+ *****yw******end drive_CHANNEL 
+ Timing: Channel Routing  accumulated time--   6.15899992    
+ Beginning Aggregation...
+ Agg Mass Bal: 
+ WB_AGG!InfxsDiff   1.76895410E-05
+ WB_AGG!Infxs1   2.19310308E-03
+ WB_AGG!Infxs2   2.21079262E-03
+ WB_AGG!SMCDiff   4.55284119E-03
+ WB_AGG!SMC1   568.341492    
+ WB_AGG!SMC2   590.789185    
+ WB_AGG!SICE2   22.4431400    
+ WB_AGG!Residual   4.57053073E-03
+ Finished Aggregation...
+ current time is 2016-09-30_18:00:00
+ output hydrology at time : 2016-09-30_18:00:00
+ before call output_chrt
+ end calling output functions
+ accumulated time (s):    12.000000000000000     
+ ***DATE=2016-09-30_18:00:00 309.57321   0.00000    Timing:   0.62 Cumulative:       12.24  SFLX:   0.01
+ read forcing data at 2016-09-30_18:00:00/mh1/kgavahi/WRF_Hydro4/FORCING/2016093019.LDASIN_DOMAIN1
+ Beginning Disaggregation...
+ Disagg Mass Bal: 
+ WB_DISAG!InfxsDiff  -3.83618753E-05
+ WB_DISAG!Infxs1   1.86190929E-03
+ WB_DISAG!Infxs2   1.82354741E-03
+ WB_DISAG!SMCDIff   4.08935547E-03
+ WB_DISAG!SMC1   590.521851    
+ WB_DISAG!SICE1   22.4431400    
+ WB_DISAG!SMC2   568.082825    
+ WB_DISAG!Residual   4.05099336E-03
+ After Disaggregation...
+ Beginning SUB_routing...
+ Routing method is            1  direction.
+ calling subsurface routing subroutine...Opt.            1
+ call subsurface routing xx= , yy =         332          37
+ finish calling ROUTE_SUBSURFACE            1
+ SUBSFC Routing Mass Bal: 
+ WB_SUB!QsubDiff  -7.87688332E-05
+ WB_SUB!Qsub1   0.00000000    
+ WB_SUB!Qsub2  -7.87688332E-05
+ WB_SUB!InfxsDiff   1.71801308E-04
+ WB_SUB!Infxs1   1.90177723E-03
+ WB_SUB!Infxs2   2.07357854E-03
+ WB_SUB!QbdryDiff  -3.62112764E+19
+ WB_SUB!Qbdry1   3.62112764E+19
+ WB_SUB!Qbdry2  -1.37566798E-03
+ WB_SUB!SMCDiff  -3.66210938E-04
+ WB_SUB!SMC1   568.070923    
+ WB_SUB!SMC2   568.070557    
+ WB_SUB!Residual   1.94409629E-04
+ SUBROUTE routing called and returned...
+ Timing: Subsurface Routing  accumulated time--   5.29999919E-02
+ Beginning OV_routing...
+ Routing method is            1  direction.
+ calling OV_RTNG 
+ OV_RTNG  DT_FRAC, DT, DTRT_TER   360.000000       3600.00000       10.0000000    
+ IXRT, JXRT =           37         332
+ End of OV_routing call...
+ OV routing called and returned...
+ OV Routing Mass Bal: 
+ WB_OV!InfxsDiff  -4.34438698E-05
+ WB_OV!Infxs1   2.07357854E-03
+ WB_OV!Infxs2   2.03013467E-03
+ WB_OV!ChaninDiff   0.00000000    
+ WB_OV!Chanin1   0.00000000    
+ WB_OV!Chanin2   0.00000000    
+ WB_OV!LakeinDiff   2.28881836E-05
+ WB_OV!Lakein1   35.9140015    
+ WB_OV!Lakein2   35.9140244    
+ WB_OV!QbdryDiff   0.00000000    
+ WB_OV!Qbdry1  -192.553055    
+ WB_OV!Qbdry2  -192.553055    
+ WB_OV!Residual  -6.63320534E-05
+ Timing: Overland Routing  accumulated time--   5.19700050    
+ *****yw******start simp_gw_buck 
+ *****yw******end simp_gw_buck 
+ Timing: GwBaseflow  accumulated time--   8.00000038E-03
+ finished call drive_CHANNEL
+ *****yw******end drive_CHANNEL 
+ Timing: Channel Routing  accumulated time--   6.48099995    
+ Beginning Aggregation...
+ Agg Mass Bal: 
+ WB_AGG!InfxsDiff   1.66962855E-05
+ WB_AGG!Infxs1   2.03013467E-03
+ WB_AGG!Infxs2   2.04683095E-03
+ WB_AGG!SMCDiff   7.84873962E-03
+ WB_AGG!SMC1   568.070557    
+ WB_AGG!SMC2   590.521545    
+ WB_AGG!SICE2   22.4431400    
+ WB_AGG!Residual   7.86543638E-03
+ Finished Aggregation...
+ current time is 2016-09-30_19:00:00
+ output hydrology at time : 2016-09-30_19:00:00
+ before call output_chrt
+ end calling output functions
+ accumulated time (s):    14.000000000000000     
+ ***DATE=2016-09-30_19:00:00 311.88922   0.00000    Timing:   0.60 Cumulative:       12.85  SFLX:   0.01
+ read forcing data at 2016-09-30_19:00:00/mh1/kgavahi/WRF_Hydro4/FORCING/2016093020.LDASIN_DOMAIN1
+ Beginning Disaggregation...
+ Disagg Mass Bal: 
+ WB_DISAG!InfxsDiff  -4.01815632E-05
+ WB_DISAG!Infxs1   1.71591155E-03
+ WB_DISAG!Infxs2   1.67572999E-03
+ WB_DISAG!SMCDIff   4.15039062E-03
+ WB_DISAG!SMC1   590.266602    
+ WB_DISAG!SICE1   22.4431400    
+ WB_DISAG!SMC2   567.827637    
+ WB_DISAG!Residual   4.11020918E-03
+ After Disaggregation...
+ Beginning SUB_routing...
+ Routing method is            1  direction.
+ calling subsurface routing subroutine...Opt.            1
+ call subsurface routing xx= , yy =         332          37
+ finish calling ROUTE_SUBSURFACE            1
+ SUBSFC Routing Mass Bal: 
+ WB_SUB!QsubDiff  -7.90471313E-05
+ WB_SUB!Qsub1   0.00000000    
+ WB_SUB!Qsub2  -7.90471313E-05
+ WB_SUB!InfxsDiff   1.66629092E-04
+ WB_SUB!Infxs1   1.74797513E-03
+ WB_SUB!Infxs2   1.91460422E-03
+ WB_SUB!QbdryDiff  -3.80365976E+19
+ WB_SUB!Qbdry1   3.80365976E+19
+ WB_SUB!Qbdry2  -1.44685188E-03
+ WB_SUB!SMCDiff  -2.44140625E-04
+ WB_SUB!SMC1   567.816528    
+ WB_SUB!SMC2   567.816284    
+ WB_SUB!Residual   7.75115332E-05
+ SUBROUTE routing called and returned...
+ Timing: Subsurface Routing  accumulated time--   5.59999906E-02
+ Beginning OV_routing...
+ Routing method is            1  direction.
+ calling OV_RTNG 
+ OV_RTNG  DT_FRAC, DT, DTRT_TER   360.000000       3600.00000       10.0000000    
+ IXRT, JXRT =           37         332
+ End of OV_routing call...
+ OV routing called and returned...
+ OV Routing Mass Bal: 
+ WB_OV!InfxsDiff  -4.59491275E-05
+ WB_OV!Infxs1   1.91460422E-03
+ WB_OV!Infxs2   1.86865509E-03
+ WB_OV!ChaninDiff   0.00000000    
+ WB_OV!Chanin1   0.00000000    
+ WB_OV!Chanin2   0.00000000    
+ WB_OV!LakeinDiff   1.90734863E-05
+ WB_OV!Lakein1   35.9140244    
+ WB_OV!Lakein2   35.9140434    
+ WB_OV!QbdryDiff   0.00000000    
+ WB_OV!Qbdry1  -192.553055    
+ WB_OV!Qbdry2  -192.553055    
+ WB_OV!Residual  -6.50226139E-05
+ Timing: Overland Routing  accumulated time--   5.44500065    
+ *****yw******start simp_gw_buck 
+ *****yw******end simp_gw_buck 
+ Timing: GwBaseflow  accumulated time--   9.00000054E-03
+ finished call drive_CHANNEL
+ *****yw******end drive_CHANNEL 
+ Timing: Channel Routing  accumulated time--   6.80200005    
+ Beginning Aggregation...
+ Agg Mass Bal: 
+ WB_AGG!InfxsDiff   1.58100156E-05
+ WB_AGG!Infxs1   1.86865509E-03
+ WB_AGG!Infxs2   1.88446511E-03
+ WB_AGG!SMCDiff   6.87217712E-03
+ WB_AGG!SMC1   567.816284    
+ WB_AGG!SMC2   590.266296    
+ WB_AGG!SICE2   22.4431400    
+ WB_AGG!Residual   6.88798726E-03
+ Finished Aggregation...
+ current time is 2016-09-30_20:00:00
+ output hydrology at time : 2016-09-30_20:00:00
+ before call output_chrt
+ end calling output functions
+ accumulated time (s):    14.000000000000000     
+ ***DATE=2016-09-30_20:00:00 313.29428   0.00000    Timing:   0.60 Cumulative:       13.45  SFLX:   0.01
+ read forcing data at 2016-09-30_20:00:00/mh1/kgavahi/WRF_Hydro4/FORCING/2016093021.LDASIN_DOMAIN1
+ Beginning Disaggregation...
+ Disagg Mass Bal: 
+ WB_DISAG!InfxsDiff  -4.10754001E-05
+ WB_DISAG!Infxs1   1.58213475E-03
+ WB_DISAG!Infxs2   1.54105935E-03
+ WB_DISAG!SMCDIff   2.44140625E-03
+ WB_DISAG!SMC1   590.047180    
+ WB_DISAG!SICE1   22.4431400    
+ WB_DISAG!SMC2   567.606506    
+ WB_DISAG!Residual   2.40033073E-03
+ After Disaggregation...
+ Beginning SUB_routing...
+ Routing method is            1  direction.
+ calling subsurface routing subroutine...Opt.            1
+ call subsurface routing xx= , yy =         332          37
+ finish calling ROUTE_SUBSURFACE            1
+ SUBSFC Routing Mass Bal: 
+ WB_SUB!QsubDiff  -7.89363257E-05
+ WB_SUB!Qsub1   0.00000000    
+ WB_SUB!Qsub2  -7.89363257E-05
+ WB_SUB!InfxsDiff   1.60824275E-04
+ WB_SUB!Infxs1   1.60738907E-03
+ WB_SUB!Infxs2   1.76821335E-03
+ WB_SUB!QbdryDiff  -3.97739799E+19
+ WB_SUB!Qbdry1   3.97739799E+19
+ WB_SUB!Qbdry2  -1.51760399E-03
+ WB_SUB!SMCDiff  -1.22070312E-04
+ WB_SUB!SMC1   567.595886    
+ WB_SUB!SMC2   567.595764    
+ WB_SUB!Residual  -3.87539621E-05
+ SUBROUTE routing called and returned...
+ Timing: Subsurface Routing  accumulated time--   5.89999892E-02
+ Beginning OV_routing...
+ Routing method is            1  direction.
+ calling OV_RTNG 
+ OV_RTNG  DT_FRAC, DT, DTRT_TER   360.000000       3600.00000       10.0000000    
+ IXRT, JXRT =           37         332
+ End of OV_routing call...
+ OV routing called and returned...
+ OV Routing Mass Bal: 
+ WB_OV!InfxsDiff  -4.44221077E-05
+ WB_OV!Infxs1   1.76821335E-03
+ WB_OV!Infxs2   1.72379124E-03
+ WB_OV!ChaninDiff   0.00000000    
+ WB_OV!Chanin1   0.00000000    
+ WB_OV!Chanin2   0.00000000    
+ WB_OV!LakeinDiff   2.67028809E-05
+ WB_OV!Lakein1   35.9140434    
+ WB_OV!Lakein2   35.9140701    
+ WB_OV!QbdryDiff   0.00000000    
+ WB_OV!Qbdry1  -192.553055    
+ WB_OV!Qbdry2  -192.553055    
+ WB_OV!Residual  -7.11249886E-05
+ Timing: Overland Routing  accumulated time--   5.69200087    
+ *****yw******start simp_gw_buck 
+ *****yw******end simp_gw_buck 
+ Timing: GwBaseflow  accumulated time--   9.00000054E-03
+ finished call drive_CHANNEL
+ *****yw******end drive_CHANNEL 
+ Timing: Channel Routing  accumulated time--   7.12400007    
+ Beginning Aggregation...
+ Agg Mass Bal: 
+ WB_AGG!InfxsDiff   1.53513392E-05
+ WB_AGG!Infxs1   1.72379124E-03
+ WB_AGG!Infxs2   1.73914258E-03
+ WB_AGG!SMCDiff   8.03184509E-03
+ WB_AGG!SMC1   567.595764    
+ WB_AGG!SMC2   590.046936    
+ WB_AGG!SICE2   22.4431400    
+ WB_AGG!Residual   8.04719608E-03
+ Finished Aggregation...
+ current time is 2016-09-30_21:00:00
+ output hydrology at time : 2016-09-30_21:00:00
+ before call output_chrt
+ end calling output functions
+ accumulated time (s):    14.000000000000000     
+ ***DATE=2016-09-30_21:00:00 313.66434   0.00000    Timing:   0.60 Cumulative:       14.05  SFLX:   0.01
+ read forcing data at 2016-09-30_21:00:00/mh1/kgavahi/WRF_Hydro4/FORCING/2016093022.LDASIN_DOMAIN1
+ Beginning Disaggregation...
+ Disagg Mass Bal: 
+ WB_DISAG!InfxsDiff  -4.54273541E-05
+ WB_DISAG!Infxs1   1.46058074E-03
+ WB_DISAG!Infxs2   1.41515338E-03
+ WB_DISAG!SMCDIff  -2.86865234E-03
+ WB_DISAG!SMC1   589.895508    
+ WB_DISAG!SICE1   22.4431400    
+ WB_DISAG!SMC2   567.449524    
+ WB_DISAG!Residual  -2.91407970E-03
+ After Disaggregation...
+ Beginning SUB_routing...
+ Routing method is            1  direction.
+ calling subsurface routing subroutine...Opt.            1
+ call subsurface routing xx= , yy =         332          37
+ finish calling ROUTE_SUBSURFACE            1
+ SUBSFC Routing Mass Bal: 
+ WB_SUB!QsubDiff  -8.15898456E-05
+ WB_SUB!Qsub1   0.00000000    
+ WB_SUB!Qsub2  -8.15898456E-05
+ WB_SUB!InfxsDiff   1.35806855E-04
+ WB_SUB!Infxs1   1.47563510E-03
+ WB_SUB!Infxs2   1.61144196E-03
+ WB_SUB!QbdryDiff  -4.14426735E+19
+ WB_SUB!Qbdry1   4.14426735E+19
+ WB_SUB!Qbdry2  -1.58858858E-03
+ WB_SUB!SMCDiff  -2.44140625E-04
+ WB_SUB!SMC1   567.442444    
+ WB_SUB!SMC2   567.442200    
+ WB_SUB!Residual   1.08333770E-04
+ SUBROUTE routing called and returned...
+ Timing: Subsurface Routing  accumulated time--   6.19999878E-02
+ Beginning OV_routing...
+ Routing method is            1  direction.
+ calling OV_RTNG 
+ OV_RTNG  DT_FRAC, DT, DTRT_TER   360.000000       3600.00000       10.0000000    
+ IXRT, JXRT =           37         332
+ End of OV_routing call...
+ OV routing called and returned...
+ OV Routing Mass Bal: 
+ WB_OV!InfxsDiff  -4.04237071E-05
+ WB_OV!Infxs1   1.61144196E-03
+ WB_OV!Infxs2   1.57101825E-03
+ WB_OV!ChaninDiff   0.00000000    
+ WB_OV!Chanin1   0.00000000    
+ WB_OV!Chanin2   0.00000000    
+ WB_OV!LakeinDiff   2.28881836E-05
+ WB_OV!Lakein1   35.9140701    
+ WB_OV!Lakein2   35.9140930    
+ WB_OV!QbdryDiff   0.00000000    
+ WB_OV!Qbdry1  -192.553055    
+ WB_OV!Qbdry2  -192.553055    
+ WB_OV!Residual  -6.33118907E-05
+ Timing: Overland Routing  accumulated time--   5.93800068    
+ *****yw******start simp_gw_buck 
+ *****yw******end simp_gw_buck 
+ Timing: GwBaseflow  accumulated time--   1.00000007E-02
+ finished call drive_CHANNEL
+ *****yw******end drive_CHANNEL 
+ Timing: Channel Routing  accumulated time--   7.44500017    
+ Beginning Aggregation...
+ Agg Mass Bal: 
+ WB_AGG!InfxsDiff   1.45796221E-05
+ WB_AGG!Infxs1   1.57101825E-03
+ WB_AGG!Infxs2   1.58559787E-03
+ WB_AGG!SMCDiff   1.00460052E-02
+ WB_AGG!SMC1   567.442200    
+ WB_AGG!SMC2   589.895386    
+ WB_AGG!SICE2   22.4431400    
+ WB_AGG!Residual   1.00605851E-02
+ Finished Aggregation...
+ current time is 2016-09-30_22:00:00
+ output hydrology at time : 2016-09-30_22:00:00
+ before call output_chrt
+ end calling output functions
+ accumulated time (s):    14.000000000000000     
+ ***DATE=2016-09-30_22:00:00 312.43073   0.00000    Timing:   0.60 Cumulative:       14.65  SFLX:   0.01
+ read forcing data at 2016-09-30_22:00:00/mh1/kgavahi/WRF_Hydro4/FORCING/2016093023.LDASIN_DOMAIN1
+ Beginning Disaggregation...
+ Disagg Mass Bal: 
+ WB_DISAG!InfxsDiff  -5.86091774E-05
+ WB_DISAG!Infxs1   1.34585961E-03
+ WB_DISAG!Infxs2   1.28725043E-03
+ WB_DISAG!SMCDIff  -4.63867188E-03
+ WB_DISAG!SMC1   589.816528    
+ WB_DISAG!SICE1   22.4431400    
+ WB_DISAG!SMC2   567.368774    
+ WB_DISAG!Residual  -4.69728094E-03
+ After Disaggregation...
+ Beginning SUB_routing...
+ Routing method is            1  direction.
+ calling subsurface routing subroutine...Opt.            1
+ call subsurface routing xx= , yy =         332          37
+ finish calling ROUTE_SUBSURFACE            1
+ SUBSFC Routing Mass Bal: 
+ WB_SUB!QsubDiff  -8.57948180E-05
+ WB_SUB!Qsub1   0.00000000    
+ WB_SUB!Qsub2  -8.57948180E-05
+ WB_SUB!InfxsDiff   1.34492060E-04
+ WB_SUB!Infxs1   1.34178158E-03
+ WB_SUB!Infxs2   1.47627364E-03
+ WB_SUB!QbdryDiff  -4.30831581E+19
+ WB_SUB!Qbdry1   4.30831581E+19
+ WB_SUB!Qbdry2  -1.66013674E-03
+ WB_SUB!SMCDiff  -1.83105469E-04
+ WB_SUB!SMC1   567.364563    
+ WB_SUB!SMC2   567.364380    
+ WB_SUB!Residual   4.86134086E-05
+ SUBROUTE routing called and returned...
+ Timing: Subsurface Routing  accumulated time--   6.49999902E-02
+ Beginning OV_routing...
+ Routing method is            1  direction.
+ calling OV_RTNG 
+ OV_RTNG  DT_FRAC, DT, DTRT_TER   360.000000       3600.00000       10.0000000    
+ IXRT, JXRT =           37         332
+ End of OV_routing call...
+ OV routing called and returned...
+ OV Routing Mass Bal: 
+ WB_OV!InfxsDiff  -3.57987592E-05
+ WB_OV!Infxs1   1.47627364E-03
+ WB_OV!Infxs2   1.44047488E-03
+ WB_OV!ChaninDiff   0.00000000    
+ WB_OV!Chanin1   0.00000000    
+ WB_OV!Chanin2   0.00000000    
+ WB_OV!LakeinDiff   1.14440918E-05
+ WB_OV!Lakein1   35.9140930    
+ WB_OV!Lakein2   35.9141045    
+ WB_OV!QbdryDiff  -1.52587891E-05
+ WB_OV!Qbdry1  -192.553055    
+ WB_OV!Qbdry2  -192.553070    
+ WB_OV!Residual  -3.19840619E-05
+ Timing: Overland Routing  accumulated time--   6.18500090    
+ *****yw******start simp_gw_buck 
+ *****yw******end simp_gw_buck 
+ Timing: GwBaseflow  accumulated time--   1.00000007E-02
+ finished call drive_CHANNEL
+ *****yw******end drive_CHANNEL 
+ Timing: Channel Routing  accumulated time--   7.76600027    
+ Beginning Aggregation...
+ Agg Mass Bal: 
+ WB_AGG!InfxsDiff   1.44809019E-05
+ WB_AGG!Infxs1   1.44047488E-03
+ WB_AGG!Infxs2   1.45495578E-03
+ WB_AGG!SMCDiff   8.82530212E-03
+ WB_AGG!SMC1   567.364380    
+ WB_AGG!SMC2   589.816345    
+ WB_AGG!SICE2   22.4431400    
+ WB_AGG!Residual   8.83978326E-03
+ Finished Aggregation...
+ current time is 2016-09-30_23:00:00
+ output hydrology at time : 2016-09-30_23:00:00
+ before call output_chrt
+ end calling output functions
+ accumulated time (s):    14.000000000000000     
+ ***DATE=2016-09-30_23:00:00 310.13611   0.00000    Timing:   0.60 Cumulative:       15.25  SFLX:   0.01
+ read forcing data at 2016-09-30_23:00:00/mh1/kgavahi/WRF_Hydro4/FORCING/2016100100.LDASIN_DOMAIN1
+ Beginning Disaggregation...
+ Disagg Mass Bal: 
+ WB_DISAG!InfxsDiff  -5.06072538E-05
+ WB_DISAG!Infxs1   1.24169409E-03
+ WB_DISAG!Infxs2   1.19108683E-03
+ WB_DISAG!SMCDIff  -9.33837891E-03
+ WB_DISAG!SMC1   589.822144    
+ WB_DISAG!SICE1   22.4431400    
+ WB_DISAG!SMC2   567.369690    
+ WB_DISAG!Residual  -9.38898604E-03
+ After Disaggregation...
+ Beginning SUB_routing...
+ Routing method is            1  direction.
+ calling subsurface routing subroutine...Opt.            1
+ call subsurface routing xx= , yy =         332          37
+ finish calling ROUTE_SUBSURFACE            1
+ SUBSFC Routing Mass Bal: 
+ WB_SUB!QsubDiff  -9.08740767E-05
+ WB_SUB!Qsub1   0.00000000    
+ WB_SUB!Qsub2  -9.08740767E-05
+ WB_SUB!InfxsDiff   1.33903115E-04
+ WB_SUB!Infxs1   1.23982632E-03
+ WB_SUB!Infxs2   1.37372944E-03
+ WB_SUB!QbdryDiff  -4.47163946E+19
+ WB_SUB!Qbdry1   4.47163946E+19
+ WB_SUB!Qbdry2  -1.73253752E-03
+ WB_SUB!SMCDiff  -2.44140625E-04
+ WB_SUB!SMC1   567.369629    
+ WB_SUB!SMC2   567.369385    
+ WB_SUB!Residual   1.10237510E-04
+ SUBROUTE routing called and returned...
+ Timing: Subsurface Routing  accumulated time--   6.69999868E-02
+ Beginning OV_routing...
+ Routing method is            1  direction.
+ calling OV_RTNG 
+ OV_RTNG  DT_FRAC, DT, DTRT_TER   360.000000       3600.00000       10.0000000    
+ IXRT, JXRT =           37         332
+ End of OV_routing call...
+ OV routing called and returned...
+ OV Routing Mass Bal: 
+ WB_OV!InfxsDiff  -3.07699665E-05
+ WB_OV!Infxs1   1.37372944E-03
+ WB_OV!Infxs2   1.34295947E-03
+ WB_OV!ChaninDiff   0.00000000    
+ WB_OV!Chanin1   0.00000000    
+ WB_OV!Chanin2   0.00000000    
+ WB_OV!LakeinDiff   7.62939453E-06
+ WB_OV!Lakein1   35.9141045    
+ WB_OV!Lakein2   35.9141121    
+ WB_OV!QbdryDiff   0.00000000    
+ WB_OV!Qbdry1  -192.553070    
+ WB_OV!Qbdry2  -192.553070    
+ WB_OV!Residual  -3.83993611E-05
+ Timing: Overland Routing  accumulated time--   6.44400072    
+ *****yw******start simp_gw_buck 
+ *****yw******end simp_gw_buck 
+ Timing: GwBaseflow  accumulated time--   1.00000007E-02
+ finished call drive_CHANNEL
+ *****yw******end drive_CHANNEL 
+ Timing: Channel Routing  accumulated time--   8.08699989    
+ Beginning Aggregation...
+ Agg Mass Bal: 
+ WB_AGG!InfxsDiff   1.51629793E-05
+ WB_AGG!Infxs1   1.34295947E-03
+ WB_AGG!Infxs2   1.35812245E-03
+ WB_AGG!SMCDiff   9.43565369E-03
+ WB_AGG!SMC1   567.369385    
+ WB_AGG!SMC2   589.821960    
+ WB_AGG!SICE2   22.4431400    
+ WB_AGG!Residual   9.45081655E-03
+ Finished Aggregation...
+ current time is 2016-10-01_00:00:00
+ output hydrology at time : 2016-10-01_00:00:00
+ yw check output restart at 2016-10-01_00:00
+ yyywww using large netcdf file definition. 
+ before call output_chrt
+ end calling output functions
+ accumulated time (s):    16.000000000000000     
+ ***DATE=2016-10-01_00:00:00 306.72079   0.00000 Write restart at 2016-10-01_00
+ output_flnm = "./Output/RESTART.2016100100_DOMAIN1"
+    Timing:   0.66 Cumulative:       15.91  SFLX:   0.01
+ read forcing data at 2016-10-01_00:00:00/mh1/kgavahi/WRF_Hydro4/FORCING/2016100101.LDASIN_DOMAIN1
+ Beginning Disaggregation...
+ Disagg Mass Bal: 
+ WB_DISAG!InfxsDiff  -4.51202504E-05
+ WB_DISAG!Infxs1   1.12917437E-03
+ WB_DISAG!Infxs2   1.08405412E-03
+ WB_DISAG!SMCDIff  -1.01928711E-02
+ WB_DISAG!SMC1   589.830872    
+ WB_DISAG!SICE1   22.4431400    
+ WB_DISAG!SMC2   567.377563    
+ WB_DISAG!Residual  -1.02379918E-02
+ After Disaggregation...
+ Beginning SUB_routing...
+ Routing method is            1  direction.
+ calling subsurface routing subroutine...Opt.            1
+ call subsurface routing xx= , yy =         332          37
+ finish calling ROUTE_SUBSURFACE            1
+ SUBSFC Routing Mass Bal: 
+ WB_SUB!QsubDiff  -9.35623757E-05
+ WB_SUB!Qsub1   0.00000000    
+ WB_SUB!Qsub2  -9.35623757E-05
+ WB_SUB!InfxsDiff   1.36267277E-04
+ WB_SUB!Infxs1   1.12708460E-03
+ WB_SUB!Infxs2   1.26335188E-03
+ WB_SUB!QbdryDiff  -4.63615059E+19
+ WB_SUB!Qbdry1   4.63615059E+19
+ WB_SUB!Qbdry2  -1.80555985E-03
+ WB_SUB!SMCDiff  -2.44140625E-04
+ WB_SUB!SMC1   567.377808    
+ WB_SUB!SMC2   567.377563    
+ WB_SUB!Residual   1.07873348E-04
+ SUBROUTE routing called and returned...
+ Timing: Subsurface Routing  accumulated time--   6.89999834E-02
+ Beginning OV_routing...
+ Routing method is            1  direction.
+ calling OV_RTNG 
+ OV_RTNG  DT_FRAC, DT, DTRT_TER   360.000000       3600.00000       10.0000000    
+ IXRT, JXRT =           37         332
+ End of OV_routing call...
+ OV routing called and returned...
+ OV Routing Mass Bal: 
+ WB_OV!InfxsDiff  -2.71653989E-05
+ WB_OV!Infxs1   1.26335188E-03
+ WB_OV!Infxs2   1.23618648E-03
+ WB_OV!ChaninDiff   0.00000000    
+ WB_OV!Chanin1   0.00000000    
+ WB_OV!Chanin2   0.00000000    
+ WB_OV!LakeinDiff   1.14440918E-05
+ WB_OV!Lakein1   35.9141121    
+ WB_OV!Lakein2   35.9141235    
+ WB_OV!QbdryDiff   0.00000000    
+ WB_OV!Qbdry1  -192.553070    
+ WB_OV!Qbdry2  -192.553070    
+ WB_OV!Residual  -3.86094907E-05
+ Timing: Overland Routing  accumulated time--   6.70200062    
+ *****yw******start simp_gw_buck 
+ *****yw******end simp_gw_buck 
+ Timing: GwBaseflow  accumulated time--   1.00000007E-02
+ finished call drive_CHANNEL
+ *****yw******end drive_CHANNEL 
+ Timing: Channel Routing  accumulated time--   8.40899944    
+ Beginning Aggregation...
+ Agg Mass Bal: 
+ WB_AGG!InfxsDiff   1.56095484E-05
+ WB_AGG!Infxs1   1.23618648E-03
+ WB_AGG!Infxs2   1.25179603E-03
+ WB_AGG!SMCDiff   9.92393494E-03
+ WB_AGG!SMC1   567.377563    
+ WB_AGG!SMC2   589.830627    
+ WB_AGG!SICE2   22.4431400    
+ WB_AGG!Residual   9.93954483E-03
+ Finished Aggregation...
+ current time is 2016-10-01_01:00:00
+ output hydrology at time : 2016-10-01_01:00:00
+ before call output_chrt
+ end calling output functions
+ accumulated time (s):    16.000000000000000     
+ ***DATE=2016-10-01_01:00:00 304.20657   0.00000    Timing:   0.61 Cumulative:       16.52  SFLX:   0.01
+ read forcing data at 2016-10-01_01:00:00/mh1/kgavahi/WRF_Hydro4/FORCING/2016100102.LDASIN_DOMAIN1
+ Beginning Disaggregation...
+ Disagg Mass Bal: 
+ WB_DISAG!InfxsDiff  -4.03720187E-05
+ WB_DISAG!Infxs1   1.03623699E-03
+ WB_DISAG!Infxs2   9.95864975E-04
+ WB_DISAG!SMCDIff  -9.76562500E-03
+ WB_DISAG!SMC1   589.839417    
+ WB_DISAG!SICE1   22.4431400    
+ WB_DISAG!SMC2   567.386536    
+ WB_DISAG!Residual  -9.80599690E-03
+ After Disaggregation...
+ Beginning SUB_routing...
+ Routing method is            1  direction.
+ calling subsurface routing subroutine...Opt.            1
+ call subsurface routing xx= , yy =         332          37
+ finish calling ROUTE_SUBSURFACE            1
+ SUBSFC Routing Mass Bal: 
+ WB_SUB!QsubDiff  -9.42692059E-05
+ WB_SUB!Qsub1   0.00000000    
+ WB_SUB!Qsub2  -9.42692059E-05
+ WB_SUB!InfxsDiff   1.37177878E-04
+ WB_SUB!Infxs1   1.03465107E-03
+ WB_SUB!Infxs2   1.17182895E-03
+ WB_SUB!QbdryDiff  -4.80277102E+19
+ WB_SUB!Qbdry1   4.80277102E+19
+ WB_SUB!Qbdry2  -1.87892839E-03
+ WB_SUB!SMCDiff  -1.83105469E-04
+ WB_SUB!SMC1   567.386780    
+ WB_SUB!SMC2   567.386597    
+ WB_SUB!Residual   4.59275907E-05
+ SUBROUTE routing called and returned...
+ Timing: Subsurface Routing  accumulated time--   7.19999820E-02
+ Beginning OV_routing...
+ Routing method is            1  direction.
+ calling OV_RTNG 
+ OV_RTNG  DT_FRAC, DT, DTRT_TER   360.000000       3600.00000       10.0000000    
+ IXRT, JXRT =           37         332
+ End of OV_routing call...
+ OV routing called and returned...
+ OV Routing Mass Bal: 
+ WB_OV!InfxsDiff  -2.33328901E-05
+ WB_OV!Infxs1   1.17182895E-03
+ WB_OV!Infxs2   1.14849606E-03
+ WB_OV!ChaninDiff   0.00000000    
+ WB_OV!Chanin1   0.00000000    
+ WB_OV!Chanin2   0.00000000    
+ WB_OV!LakeinDiff   7.62939453E-06
+ WB_OV!Lakein1   35.9141235    
+ WB_OV!Lakein2   35.9141312    
+ WB_OV!QbdryDiff   0.00000000    
+ WB_OV!Qbdry1  -192.553070    
+ WB_OV!Qbdry2  -192.553070    
+ WB_OV!Residual  -3.09622847E-05
+ Timing: Overland Routing  accumulated time--   6.95900059    
+ *****yw******start simp_gw_buck 
+ *****yw******end simp_gw_buck 
+ Timing: GwBaseflow  accumulated time--   1.00000007E-02
+ finished call drive_CHANNEL
+ *****yw******end drive_CHANNEL 
+ Timing: Channel Routing  accumulated time--   8.75699902    
+ Beginning Aggregation...
+ Agg Mass Bal: 
+ WB_AGG!InfxsDiff   1.54568115E-05
+ WB_AGG!Infxs1   1.14849606E-03
+ WB_AGG!Infxs2   1.16395287E-03
+ WB_AGG!SMCDiff   9.55772400E-03
+ WB_AGG!SMC1   567.386597    
+ WB_AGG!SMC2   589.839294    
+ WB_AGG!SICE2   22.4431400    
+ WB_AGG!Residual   9.57318116E-03
+ Finished Aggregation...
+ current time is 2016-10-01_02:00:00
+ output hydrology at time : 2016-10-01_02:00:00
+ before call output_chrt
+ end calling output functions
+ accumulated time (s):    16.000000000000000     
+ ***DATE=2016-10-01_02:00:00 302.31787   0.00000    Timing:   0.64 Cumulative:       17.16  SFLX:   0.01
+ read forcing data at 2016-10-01_02:00:00/mh1/kgavahi/WRF_Hydro4/FORCING/2016100103.LDASIN_DOMAIN1
+ Beginning Disaggregation...
+ Disagg Mass Bal: 
+ WB_DISAG!InfxsDiff  -3.45721492E-05
+ WB_DISAG!Infxs1   9.64196923E-04
+ WB_DISAG!Infxs2   9.29624774E-04
+ WB_DISAG!SMCDIff  -1.00097656E-02
+ WB_DISAG!SMC1   589.849182    
+ WB_DISAG!SICE1   22.4431400    
+ WB_DISAG!SMC2   567.396057    
+ WB_DISAG!Residual  -1.00443382E-02
+ After Disaggregation...
+ Beginning SUB_routing...
+ Routing method is            1  direction.
+ calling subsurface routing subroutine...Opt.            1
+ call subsurface routing xx= , yy =         332          37
+ finish calling ROUTE_SUBSURFACE            1
+ SUBSFC Routing Mass Bal: 
+ WB_SUB!QsubDiff  -9.59097961E-05
+ WB_SUB!Qsub1   0.00000000    
+ WB_SUB!Qsub2  -9.59097961E-05
+ WB_SUB!InfxsDiff   1.37963158E-04
+ WB_SUB!Infxs1   9.64964333E-04
+ WB_SUB!Infxs2   1.10292749E-03
+ WB_SUB!QbdryDiff  -4.97179235E+19
+ WB_SUB!Qbdry1   4.97179235E+19
+ WB_SUB!Qbdry2  -1.95265387E-03
+ WB_SUB!SMCDiff  -4.27246094E-04
+ WB_SUB!SMC1   567.396057    
+ WB_SUB!SMC2   567.395630    
+ WB_SUB!Residual   2.89282936E-04
+ SUBROUTE routing called and returned...
+ Timing: Subsurface Routing  accumulated time--   7.49999806E-02
+ Beginning OV_routing...
+ Routing method is            1  direction.
+ calling OV_RTNG 
+ OV_RTNG  DT_FRAC, DT, DTRT_TER   360.000000       3600.00000       10.0000000    
+ IXRT, JXRT =           37         332
+ End of OV_routing call...
+ OV routing called and returned...
+ OV Routing Mass Bal: 
+ WB_OV!InfxsDiff  -2.16524350E-05
+ WB_OV!Infxs1   1.10292749E-03
+ WB_OV!Infxs2   1.08127506E-03
+ WB_OV!ChaninDiff   0.00000000    
+ WB_OV!Chanin1   0.00000000    
+ WB_OV!Chanin2   0.00000000    
+ WB_OV!LakeinDiff   1.14440918E-05
+ WB_OV!Lakein1   35.9141312    
+ WB_OV!Lakein2   35.9141426    
+ WB_OV!QbdryDiff   0.00000000    
+ WB_OV!Qbdry1  -192.553070    
+ WB_OV!Qbdry2  -192.553070    
+ WB_OV!Residual  -3.30965267E-05
+ Timing: Overland Routing  accumulated time--   7.21900082    
+ *****yw******start simp_gw_buck 
+ *****yw******end simp_gw_buck 
+ Timing: GwBaseflow  accumulated time--   1.00000007E-02
+ finished call drive_CHANNEL
+ *****yw******end drive_CHANNEL 
+ Timing: Channel Routing  accumulated time--   9.07899857    
+ Beginning Aggregation...
+ Agg Mass Bal: 
+ WB_AGG!InfxsDiff   1.54725276E-05
+ WB_AGG!Infxs1   1.08127506E-03
+ WB_AGG!Infxs2   1.09674758E-03
+ WB_AGG!SMCDiff   9.98497009E-03
+ WB_AGG!SMC1   567.395630    
+ WB_AGG!SMC2   589.848755    
+ WB_AGG!SICE2   22.4431400    
+ WB_AGG!Residual   1.00004431E-02
+ Finished Aggregation...
+ current time is 2016-10-01_03:00:00
+ output hydrology at time : 2016-10-01_03:00:00
+ before call output_chrt
+ end calling output functions
+ accumulated time (s):    16.000000000000000     
+ ***DATE=2016-10-01_03:00:00 300.79367   0.00000    Timing:   0.61 Cumulative:       17.77  SFLX:   0.01
+ read forcing data at 2016-10-01_03:00:00/mh1/kgavahi/WRF_Hydro4/FORCING/2016100104.LDASIN_DOMAIN1
+ Beginning Disaggregation...
+ Disagg Mass Bal: 
+ WB_DISAG!InfxsDiff  -3.30189359E-05
+ WB_DISAG!Infxs1   9.32250812E-04
+ WB_DISAG!Infxs2   8.99231876E-04
+ WB_DISAG!SMCDIff  -1.06811523E-02
+ WB_DISAG!SMC1   589.858582    
+ WB_DISAG!SICE1   22.4431400    
+ WB_DISAG!SMC2   567.404785    
+ WB_DISAG!Residual  -1.07141715E-02
+ After Disaggregation...
+ Beginning SUB_routing...
+ Routing method is            1  direction.
+ calling subsurface routing subroutine...Opt.            1
+ call subsurface routing xx= , yy =         332          37
+ finish calling ROUTE_SUBSURFACE            1
+ SUBSFC Routing Mass Bal: 
+ WB_SUB!QsubDiff  -9.77644086E-05
+ WB_SUB!Qsub1   0.00000000    
+ WB_SUB!Qsub2  -9.77644086E-05
+ WB_SUB!InfxsDiff   1.38677598E-04
+ WB_SUB!Infxs1   9.33387026E-04
+ WB_SUB!Infxs2   1.07206462E-03
+ WB_SUB!QbdryDiff  -5.14326866E+19
+ WB_SUB!Qbdry1   5.14326866E+19
+ WB_SUB!Qbdry2  -2.02673231E-03
+ WB_SUB!SMCDiff  -1.83105469E-04
+ WB_SUB!SMC1   567.404968    
+ WB_SUB!SMC2   567.404785    
+ WB_SUB!Residual   4.44278703E-05
+ SUBROUTE routing called and returned...
+ Timing: Subsurface Routing  accumulated time--   7.69999772E-02
+ Beginning OV_routing...
+ Routing method is            1  direction.
+ calling OV_RTNG 
+ OV_RTNG  DT_FRAC, DT, DTRT_TER   360.000000       3600.00000       10.0000000    
+ IXRT, JXRT =           37         332
+ End of OV_routing call...
+ OV routing called and returned...
+ OV Routing Mass Bal: 
+ WB_OV!InfxsDiff  -2.06853729E-05
+ WB_OV!Infxs1   1.07206462E-03
+ WB_OV!Infxs2   1.05137925E-03
+ WB_OV!ChaninDiff   0.00000000    
+ WB_OV!Chanin1   0.00000000    
+ WB_OV!Chanin2   0.00000000    
+ WB_OV!LakeinDiff   3.81469727E-06
+ WB_OV!Lakein1   35.9141426    
+ WB_OV!Lakein2   35.9141464    
+ WB_OV!QbdryDiff   0.00000000    
+ WB_OV!Qbdry1  -192.553070    
+ WB_OV!Qbdry2  -192.553070    
+ WB_OV!Residual  -2.45000701E-05
+ Timing: Overland Routing  accumulated time--   7.48700094    
+ *****yw******start simp_gw_buck 
+ *****yw******end simp_gw_buck 
+ Timing: GwBaseflow  accumulated time--   1.00000007E-02
+ finished call drive_CHANNEL
+ *****yw******end drive_CHANNEL 
+ Timing: Channel Routing  accumulated time--   9.40199852    
+ Beginning Aggregation...
+ Agg Mass Bal: 
+ WB_AGG!InfxsDiff   1.53016299E-05
+ WB_AGG!Infxs1   1.05137925E-03
+ WB_AGG!Infxs2   1.06668088E-03
+ WB_AGG!SMCDiff   1.04732513E-02
+ WB_AGG!SMC1   567.404785    
+ WB_AGG!SMC2   589.858398    
+ WB_AGG!SICE2   22.4431400    
+ WB_AGG!Residual   1.04885530E-02
+ Finished Aggregation...
+ current time is 2016-10-01_04:00:00
+ output hydrology at time : 2016-10-01_04:00:00
+ before call output_chrt

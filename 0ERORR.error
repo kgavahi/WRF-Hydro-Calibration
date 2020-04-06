@@ -1,0 +1,36 @@
+srun: Job step aborted: Waiting up to 62 seconds for job step to finish.
+srun: Job step aborted: Waiting up to 62 seconds for job step to finish.
+srun: Job step aborted: Waiting up to 62 seconds for job step to finish.
+srun: Job step aborted: Waiting up to 62 seconds for job step to finish.
+srun: Job step aborted: Waiting up to 62 seconds for job step to finish.
+srun: Job step aborted: Waiting up to 62 seconds for job step to finish.
+srun: Job step aborted: Waiting up to 62 seconds for job step to finish.
+srun: got SIGCONT
+srun: got SIGCONT
+srun: got SIGCONT
+srun: got SIGCONT
+srun: got SIGCONT
+srun: got SIGCONT
+srun: got SIGCONT
+slurmstepd: error: *** STEP 1071507.0 ON compute-20-7 CANCELLED AT 2020-04-06T13:36:36 ***
+srun: forcing job termination
+srun: forcing job termination
+srun: forcing job termination
+srun: forcing job termination
+srun: forcing job termination
+srun: forcing job termination
+slurmstepd: error: *** STEP 1071507.4 ON compute-20-7 CANCELLED AT 2020-04-06T13:36:36 ***
+slurmstepd: error: *** STEP 1071507.5 ON compute-20-7 CANCELLED AT 2020-04-06T13:36:36 ***
+slurmstepd: error: *** STEP 1071507.6 ON compute-20-7 CANCELLED AT 2020-04-06T13:36:36 ***
+slurmstepd: error: *** STEP 1071507.1 ON compute-20-7 CANCELLED AT 2020-04-06T13:36:36 ***
+slurmstepd: error: *** STEP 1071507.2 ON compute-20-7 CANCELLED AT 2020-04-06T13:36:36 ***
+slurmstepd: error: *** JOB 1071507 ON compute-20-7 CANCELLED AT 2020-04-06T13:36:36 ***
+srun: forcing job termination
+slurmstepd: error: *** STEP 1071507.3 ON compute-20-7 CANCELLED AT 2020-04-06T13:36:36 ***
+srun: error: compute-20-7: tasks 0-6: Terminated
+srun: error: compute-20-7: tasks 0-6: Terminated
+srun: error: compute-20-7: tasks 0-6: Terminated
+srun: error: compute-20-7: tasks 0-6: Terminated
+srun: error: compute-20-7: tasks 0-6: Terminated
+srun: error: compute-20-7: tasks 0-6: Terminated
+srun: error: compute-20-7: task 0: Terminated
